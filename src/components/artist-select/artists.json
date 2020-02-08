@@ -1,0 +1,2458 @@
+[{
+  "artistName": "Rage Against the Machine",
+  "night": "Friday",
+  "billing": 1,
+  "spotifyID": "2d0hyoQ5ynDBnkvAbJKORj",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ddb4a2ad4585d914d9e6993f6ddf50d33e48089e",
+    "imageShape": "other",
+    "genres": ["alternative rock", "conscious hip hop", "rock", "alternative metal", "funk metal", "hard rock", "nu metal", "post-grunge", "rap metal", "rap rock"],
+    "popularity": 77,
+    "sortedGenres": ["alternative rock", "conscious hip hop", "rock", "alternative metal", "funk metal", "hard rock", "nu metal", "post-grunge", "rap metal", "rap rock"],
+    "topTrackNames": ["Killing In The Name", "Bulls On Parade", "Guerrilla Radio"]
+  },
+  "id": "y3yaJdBhVHsNah4S7xJGv"
+}, {
+  "artistName": "Calvin Harris",
+  "night": "Friday",
+  "billing": 2,
+  "spotifyID": "7CajNmpbOovFoOoasH2HaY",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/f7ed25ea825451b9b19b6d5ef4826778413768e2",
+    "imageShape": "small-square",
+    "genres": ["pop", "edm", "dance pop", "tropical house", "house", "electro house", "progressive house", "uk dance"],
+    "popularity": 90,
+    "sortedGenres": ["pop", "edm", "dance pop", "tropical house", "house", "electro house", "progressive house", "uk dance"],
+    "topTrackNames": ["One Kiss (with Dua Lipa)", "Promises (with Sam Smith)", "Giant (with Rag'n'Bone Man)"]
+  },
+  "id": "mnFxM2LqhgZK8A8Q8ndLoX"
+}, {
+  "artistName": "Run the Jewels",
+  "night": "Friday",
+  "billing": 3,
+  "spotifyID": "4RnBFZRiMLRyZy0AzzTg2C",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/2b33dc6270e5494f949c7b71fa322f050b2048fd",
+    "imageShape": "small-square",
+    "genres": ["hip hop", "escape room", "alternative hip hop"],
+    "popularity": 69,
+    "sortedGenres": ["hip hop", "escape room", "alternative hip hop"],
+    "topTrackNames": ["Close Your Eyes (And Count To Fuck)", "Legend Has It", "Blockbuster Night, Pt. 1"]
+  },
+  "id": "6pBoJEnYvNxq6xvnzF6Fmu"
+}, {
+  "artistName": "Rex Orange County",
+  "night": "Friday",
+  "billing": 4,
+  "spotifyID": "7pbDxGE6nQSZVfiFdq9lOL",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/7a3a42599f14a2b7db89c90327090be242b33442",
+    "imageShape": "small-square",
+    "genres": ["pop", "indie r&b", "bedroom pop"],
+    "popularity": 84,
+    "sortedGenres": ["pop", "indie r&b", "bedroom pop"],
+    "topTrackNames": ["Best Friend", "Loving Is Easy", "Sunflower"]
+  },
+  "id": "bFuJtqoQwptMVPuRswEzk2"
+}, {
+  "artistName": "Megan Thee Stallion",
+  "night": "Friday",
+  "billing": 5,
+  "spotifyID": "181bsRPaVXVlUKXrxwZfHK",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a26ed60150acbf62633bd48efbe672fb9546bc22",
+    "imageShape": "small-square",
+    "genres": ["pop", "pop rap", "trap queen", "houston rap"],
+    "popularity": 81,
+    "sortedGenres": ["pop", "pop rap", "trap queen", "houston rap"],
+    "topTrackNames": ["Cash Shit (feat. DaBaby)", "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)", "Big Ole Freak"]
+  },
+  "id": "nwC3wcJJdJhqfLQVahLKGv"
+}, {
+  "artistName": "BIGBANG",
+  "night": "Friday",
+  "billing": 6,
+  "spotifyID": "4Kxlr1PRlDKEB0ekOCyHgX",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a0316e7d7e01e7308004749e5b84648c0b268f64",
+    "imageShape": "small-square",
+    "genres": ["k-pop", "k-pop boy group"],
+    "popularity": 72,
+    "sortedGenres": ["k-pop", "k-pop boy group"],
+    "topTrackNames": ["BANG BANG BANG", "FXXK IT", "LOSER"]
+  },
+  "id": "tVs2TVd534jYvYQHAuWNZ3"
+}, {
+  "artistName": "Brockhampton",
+  "night": "Friday",
+  "billing": 7,
+  "spotifyID": "1Bl6wpkWCQ4KVgnASpvzzA",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/e9034910b1f07717bf159e9c2738107602b24597",
+    "imageShape": "small-square",
+    "genres": ["rap", "hip hop", "boy band"],
+    "popularity": 83,
+    "sortedGenres": ["rap", "hip hop", "boy band"],
+    "topTrackNames": ["SUGAR", "BLEACH", "NO HALO"]
+  },
+  "id": "qCY7Wn9GWz2NR8rdvtwTVN"
+}, {
+  "artistName": "Big Sean",
+  "night": "Friday",
+  "billing": 8,
+  "spotifyID": "0c173mlxpT3dSFRgMO8XPh",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/b5252c16cf90d7e9c1839c812e82abbd97ca3451",
+    "imageShape": "small-square",
+    "genres": ["rap", "pop rap", "hip hop", "trap", "southern hip hop", "detroit hip hop"],
+    "popularity": 86,
+    "sortedGenres": ["rap", "pop rap", "hip hop", "trap", "southern hip hop", "detroit hip hop"],
+    "topTrackNames": ["Bounce Back", "I Don't Fuck With You", "Bezerk (feat. A$AP Ferg)"]
+  },
+  "id": "rRj1AJCJedwxAmdTnHWpzP"
+}, {
+  "artistName": "king gizzard and the lizard wizard",
+  "night": "Friday",
+  "billing": 9,
+  "spotifyID": "6XYvaoDGE0VmRt83Jss9Sn",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/749440b88a22854d53c8750ca1447c490f808e9b",
+    "imageShape": "small-square",
+    "genres": ["neo-psychedelic", "australian indie", "australian psych"],
+    "popularity": 69,
+    "sortedGenres": ["neo-psychedelic", "australian indie", "australian psych"],
+    "topTrackNames": ["Work This Time", "Sense", "Mars For The Rich"]
+  },
+  "id": "vnoBaQudsKPxd6xNfKc45z"
+}, {
+  "artistName": "City Girls",
+  "night": "Friday",
+  "billing": 10,
+  "spotifyID": "37hAfseJWi0G3Scife12Il",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/dff9330eb42f8d8e54545782d41d93f2bdd457f0",
+    "imageShape": "small-square",
+    "genres": ["pop", "pop rap", "trap queen"],
+    "popularity": 78,
+    "sortedGenres": ["pop", "pop rap", "trap queen"],
+    "topTrackNames": ["Act Up", "Twerk (feat. Cardi B)", "You Tried It"]
+  },
+  "id": "gc7DzyLt3ccjeXBr4NA3gC"
+}, {
+  "artistName": "Lewis Capaldi",
+  "night": "Friday",
+  "billing": 11,
+  "spotifyID": "4GNC7GD6oZMSxPGyXy4MNB",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a47d5d5fa6082abfeff7e3b90bff93fb81ce345a",
+    "imageShape": "small-square",
+    "genres": ["pop", "uk pop"],
+    "popularity": 92,
+    "sortedGenres": ["pop", "uk pop"],
+    "topTrackNames": ["Someone You Loved", "Before You Go", "Bruises"]
+  },
+  "id": "ejCkWeK1f4FuiYvWbs6oTY"
+}, {
+  "artistName": "Madeon",
+  "night": "Friday",
+  "billing": 12,
+  "spotifyID": "4pb4rqWSoGUgxm63xmJ8xc",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/3f4c99a2932c2e21fc966123050cd92fe4ff0c15",
+    "imageShape": "small-square",
+    "genres": ["electropop", "edm", "electro house", "filter house", "big room", "complextro"],
+    "popularity": 69,
+    "sortedGenres": ["electropop", "edm", "electro house", "filter house", "big room", "complextro"],
+    "topTrackNames": ["Shelter", "All My Friends", "No Fear No More"]
+  },
+  "id": "aYJ9mSrz4g4oyeWvY88H96"
+}, {
+  "artistName": "Charli XCX",
+  "night": "Friday",
+  "billing": 13,
+  "spotifyID": "25uiPmTg16RbhZWAqwLBy5",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/54f33434debfbf77573fa83f92887a4543731d24",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "dance pop", "tropical house", "post-teen pop", "metropopolis", "candy pop"],
+    "popularity": 81,
+    "sortedGenres": ["pop", "electropop", "dance pop", "tropical house", "post-teen pop", "metropopolis", "candy pop"],
+    "topTrackNames": ["Dream Glow (BTS World Original Soundtrack) - Pt. 1", "1999", "Blame It on Your Love (feat. Lizzo)"]
+  },
+  "id": "pzWXyVWriWAK8Eu7DZZunz"
+}, {
+  "artistName": "Lane 8",
+  "night": "Friday",
+  "billing": 14,
+  "spotifyID": "27gtK7m9vYwCyJ04zz0kIb",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/031a95a6e52d8182b687f38cac5b6c8f87a28995",
+    "imageShape": "small-square",
+    "genres": ["tropical house", "house", "progressive house", "gauze pop"],
+    "popularity": 68,
+    "sortedGenres": ["tropical house", "house", "progressive house", "gauze pop"],
+    "topTrackNames": ["Ghost Voices (Lane 8 Remix)", "Just", "Visions"]
+  },
+  "id": "c25RS4j1V3dz4cU9JAiY2k"
+}, {
+  "artistName": "Griz",
+  "night": "Friday",
+  "billing": 15,
+  "spotifyID": "25oLRSUjJk4YHNUsQXk7Ut",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/1a54def9b5f56aad2c41dfb43d309d14030c2b4e",
+    "imageShape": "small-square",
+    "genres": ["electropop", "edm", "jamtronica", "jazztronica", "livetronica"],
+    "popularity": 67,
+    "sortedGenres": ["electropop", "edm", "jamtronica", "jazztronica", "livetronica"],
+    "topTrackNames": ["Griztronics", "Can't Hold Me Down", "Tiger Kingdom Space Camp"]
+  },
+  "id": "ihzyRv3HRnWKDBQ9NdFK5s"
+}, {
+  "artistName": "Chicano Batman",
+  "night": "Friday",
+  "billing": 16,
+  "spotifyID": "0LklyUMMUhpIjMgYHlV0hN",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/54cc95093cd6ec71af7d70a9512adea8e90b0dfa",
+    "imageShape": "small-square",
+    "genres": ["indie garage rock", "la indie"],
+    "popularity": 55,
+    "sortedGenres": ["indie garage rock", "la indie"],
+    "topTrackNames": ["Black Lipstick", "Cycles of Existential Rhyme", "Passed You By"]
+  },
+  "id": "5hq7fdR5mDgGM5NbSY6Jsh"
+}, {
+  "artistName": "Omar Apollo",
+  "night": "Friday",
+  "billing": 17,
+  "spotifyID": "5FxD8fkQZ6KcsSYupDVoSO",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/826fd181d83b13665fcfdcf414190a21690281e4",
+    "imageShape": "small-square",
+    "genres": ["pop", "alternative r&b", "indie pop", "indie r&b", "bedroom pop", "bedroom soul"],
+    "popularity": 70,
+    "sortedGenres": ["pop", "alternative r&b", "indie pop", "indie r&b", "bedroom pop", "bedroom soul"],
+    "topTrackNames": ["Hit Me Up", "Ugotme", "Erase"]
+  },
+  "id": "jX3MpKR6uWQ8K9Pg73TeqT"
+}, {
+  "artistName": "Kim Petras",
+  "night": "Friday",
+  "billing": 18,
+  "spotifyID": "3Xt3RrJMFv5SZkCfUE8C1J",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/e38583fd84d6204f34ec7ac5892bdc9186e1d720",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "art pop", "dance pop", "escape room", "indie poptimism", "post-teen pop", "transpop"],
+    "popularity": 72,
+    "sortedGenres": ["pop", "electropop", "art pop", "dance pop", "escape room", "indie poptimism", "post-teen pop", "transpop"],
+    "topTrackNames": ["Love Me Less (feat. Kim Petras)", "Icy", "Heart to Break"]
+  },
+  "id": "uoMcG2qBFJu77KXrPkDTsi"
+}, {
+  "artistName": "Idles",
+  "night": "Friday",
+  "billing": 19,
+  "spotifyID": "75mafsNqNE1WSEVxIKuY5C",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/d1ceec66c4356ab59601b4f0bd0c2c8f0645b8d6",
+    "imageShape": "small-square",
+    "genres": ["chamber psych", "modern rock", "english indie rock", "bristol indie"],
+    "popularity": 63,
+    "sortedGenres": ["chamber psych", "modern rock", "english indie rock", "bristol indie"],
+    "topTrackNames": ["Never Fight A Man With A Perm", "Danny Nedelko", "I'm Scum"]
+  },
+  "id": "ueHBTJLFWAauGu81YppjQA"
+}, {
+  "artistName": "Daphni",
+  "night": "Friday",
+  "billing": 20,
+  "spotifyID": "4nhvb6x9ZhPiYCzrHDNia9",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/2ceae7fcb1293c9edab4f6bffbd8e8eea9e51a01",
+    "imageShape": "other",
+    "genres": ["indie soul", "electronica", "alternative dance", "new rave", "float house", "microhouse", "bass music", "deep house", "future garage"],
+    "popularity": 50,
+    "sortedGenres": ["indie soul", "electronica", "alternative dance", "new rave", "float house", "microhouse", "bass music", "deep house", "future garage"],
+    "topTrackNames": ["Sizzling", "Cos-Ber-Zam Ne Noya - Daphni Mix", "Face to Face"]
+  },
+  "id": "oNuewxchbjiG69VgJQ4PZs"
+}, {
+  "artistName": "The Martinez Brothers",
+  "night": "Friday",
+  "billing": 21,
+  "spotifyID": "7B1LLuCQk13H4Mb6CFBftU",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/07af5f7dd5e033796ee4ceb1d4fef606b3f456f6",
+    "imageShape": "small-square",
+    "genres": ["minimal techno", "minimal tech house"],
+    "popularity": 53,
+    "sortedGenres": ["minimal techno", "minimal tech house"],
+    "topTrackNames": ["Bappi - Edit", "Bappi", "Sitigawana (feat. Faith Mussa) - Edit"]
+  },
+  "id": "33bNuAMRJyTTqdtoyhYZ8x"
+}, {
+  "artistName": "Pink Sweat$",
+  "night": "Friday",
+  "billing": 22,
+  "spotifyID": "1W7FNibLa0O0b572tB2w7t",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/d46f9ec11c65f676ab3c44ace00d2180e2faf1ec",
+    "imageShape": "small-square",
+    "genres": ["pop", "alternative r&b", "indie r&b", "bedroom soul"],
+    "popularity": 74,
+    "sortedGenres": ["pop", "alternative r&b", "indie r&b", "bedroom soul"],
+    "topTrackNames": ["Honesty", "I Wanna Be Yours", "Cocaine"]
+  },
+  "id": "gzzpDd6CgvKBJ848FEw4Pm"
+}, {
+  "artistName": "Peggy Gou",
+  "night": "Friday",
+  "billing": 23,
+  "spotifyID": "2mLA48B366zkELXYx7hcDN",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/999647ed71ff3ea9685f86b278988430a6090416",
+    "imageShape": "small-square",
+    "genres": ["float house", "electra"],
+    "popularity": 62,
+    "sortedGenres": ["float house", "electra"],
+    "topTrackNames": ["Starry Night - Edit", "Starry Night - Original Mix", "It Makes You Forget (Itgehane) - Edit"]
+  },
+  "id": "hqohUxxWLWKprQDeKQXjv1"
+}, {
+  "artistName": "Hatsune Miku",
+  "night": "Friday",
+  "billing": 24,
+  "spotifyID": "6pNgnvzBa6Bthsv8SrZJYl",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733483d29da023022d903644f3",
+    "imageShape": "other",
+    "genres": [],
+    "popularity": 59,
+    "sortedGenres": [],
+    "topTrackNames": ["Miku", "Sunanowakusei", "Miku - Japanese Version"]
+  },
+  "id": "po6Qefn1CRi4L26wv8bshU"
+}, {
+  "artistName": "TNGHT",
+  "night": "Friday",
+  "billing": 25,
+  "spotifyID": "40jiZfvsiAi1aIarh5Z3d3",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5616353eda98c621ef47108248cfd4f8f40fe9f7",
+    "imageShape": "small-square",
+    "genres": ["escape room", "electronic trap", "vapor twitch", "bass music", "hyperpop"],
+    "popularity": 51,
+    "sortedGenres": ["escape room", "electronic trap", "vapor twitch", "bass music", "hyperpop"],
+    "topTrackNames": ["Higher Ground", "Dollaz", "First Body"]
+  },
+  "id": "6ir3KV6KBTuFLaDmSi5dra"
+}, {
+  "artistName": "Rich Brian",
+  "night": "Friday",
+  "billing": 26,
+  "spotifyID": "2IDLDx25HU1nQMKde4n61a",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/92d24469bcebbe72661462a56026f4f34ed84617",
+    "imageShape": "small-square",
+    "genres": ["indonesian hip hop"],
+    "popularity": 79,
+    "sortedGenres": ["indonesian hip hop"],
+    "topTrackNames": ["Midsummer Madness", "100 Degrees", "History"]
+  },
+  "id": "fhR5AZBGUdBFcrbrYrQRJM"
+}, {
+  "artistName": "Damian Lazarus",
+  "night": "Friday",
+  "billing": 27,
+  "spotifyID": "3EIJ8wiUHbgkRCt5cpRrQv",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/0179a5166495dfafd851d063d8559268ca050fc5",
+    "imageShape": "other",
+    "genres": ["uk house"],
+    "popularity": 40,
+    "sortedGenres": ["uk house"],
+    "topTrackNames": ["Sacred Dance Of The Demon - Gorgon City Remix", "Moment - Adam Port Remix", "Wish You Were Here (feat. Msaki) - Damian Lazarus Re-Shape"]
+  },
+  "id": "ntyJGr2UR4ytQqmknxuqQR"
+}, {
+  "artistName": "Princess Nokia",
+  "night": "Friday",
+  "billing": 28,
+  "spotifyID": "6lay1nwbE6hTx1jivysUAL",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5c8d0ef84535a817f69ab61a1d60d9f2c8fde248",
+    "imageShape": "small-square",
+    "genres": ["art pop", "escape room", "lgbtq+ hip hop", "trap queen"],
+    "popularity": 62,
+    "sortedGenres": ["art pop", "escape room", "lgbtq+ hip hop", "trap queen"],
+    "topTrackNames": ["Sugar Honey Iced Tea (S.H.I.T.)", "Balenciaga", "LMK_WHAT’S REALLY GOOD REMIX_ FEAT_PRINCESS NOKIA_JUNGLEPUSSY_CUPCAKKE_MS. BOOGIE_100 BPM"]
+  },
+  "id": "b12cusry6wB8GRkEUezkD5"
+}, {
+  "artistName": "Slowthai",
+  "night": "Friday",
+  "billing": 29,
+  "spotifyID": "3r1XkJ7vCs8kHBSzGvPLdP",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ae716c5a0e67d41480f569f2fc34a4ac7b0637ab",
+    "imageShape": "small-square",
+    "genres": ["rap", "hip hop", "uk alternative hip hop", "uk hip hop"],
+    "popularity": 69,
+    "sortedGenres": ["rap", "hip hop", "uk alternative hip hop", "uk hip hop"],
+    "topTrackNames": ["Deal Wiv It", "Doorman", "T N Biscuits"]
+  },
+  "id": "7UvQpWUo2kdnDw5phBhm76"
+}, {
+  "artistName": "YBN",
+  "night": "Friday",
+  "billing": 30,
+  "spotifyID": "0huGjMyP507tBCARyzSkrv",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/9387a75211a8a6e9195c1dd676b00cd0e48ccbc6",
+    "imageShape": "small-square",
+    "genres": ["rap", "hip hop", "trap", "underground hip hop", "dmv rap", "vapor trap"],
+    "popularity": 78,
+    "sortedGenres": ["rap", "hip hop", "trap", "underground hip hop", "dmv rap", "vapor trap"],
+    "topTrackNames": ["RNP (feat. Anderson .Paak)", "Kung Fu", "Have Mercy"]
+  },
+  "id": "nY4d8PURnTAjApWf3LukYF"
+}, {
+  "artistName": "Tokimonsta",
+  "night": "Friday",
+  "billing": 31,
+  "spotifyID": "3VwKSHAfgzV1DOHV0aANCI",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/6cd3a405fc5ad37038d4864d5d5de543fbb3a5fb",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "indietronica", "electra", "vapor soul", "vapor twitch", "chillwave", "wonky"],
+    "popularity": 62,
+    "sortedGenres": ["indie soul", "indietronica", "electra", "vapor soul", "vapor twitch", "chillwave", "wonky"],
+    "topTrackNames": ["Realla", "Love That Never", "Rose's Thorn"]
+  },
+  "id": "rNfW5vsWxi1tJVZMt1d3BQ"
+}, {
+  "artistName": "the Chats",
+  "night": "Friday",
+  "billing": 32,
+  "spotifyID": "1aQ7P3HtKOQFW16ebjiks1",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/155dd9f8975dc354063529be2e653cbb953b152c",
+    "imageShape": "small-square",
+    "genres": ["australian garage punk"],
+    "popularity": 55,
+    "sortedGenres": ["australian garage punk"],
+    "topTrackNames": ["Smoko", "Pub Feed", "Identity Theft"]
+  },
+  "id": "683QutyGSvpbHLKPzgq6Mg"
+}, {
+  "artistName": "Niki",
+  "night": "Friday",
+  "billing": 33,
+  "spotifyID": "2kxP07DLgs4xlWz8YHlvfh",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/699c5a8f99332f4a91627958b0743d44383662b6",
+    "imageShape": "small-square",
+    "genres": ["pop", "indie r&b", "indonesian r&b"],
+    "popularity": 78,
+    "sortedGenres": ["pop", "indie r&b", "indonesian r&b"],
+    "topTrackNames": ["lowkey", "I Like U", "Indigo"]
+  },
+  "id": "34ymNrNKEq7c3Q6gbrA5DM"
+}, {
+  "artistName": "Malaa",
+  "night": "Friday",
+  "billing": 34,
+  "spotifyID": "7w1eTNePApzDk8XtgykCPS",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/cbf908e51186ba1ab633bc9816c34f2342397c5d",
+    "imageShape": "small-square",
+    "genres": ["edm", "house", "electro house", "electronic trap", "bass house"],
+    "popularity": 62,
+    "sortedGenres": ["edm", "house", "electro house", "electronic trap", "bass house"],
+    "topTrackNames": ["Made In France (with Tchami & Malaa, feat. Mercer)", "Notorious", "Criminals"]
+  },
+  "id": "evtS7qYXo9rCxiQj4aFNDq"
+}, {
+  "artistName": "PUP",
+  "night": "Friday",
+  "billing": 35,
+  "spotifyID": "6A7uqgC2N1nUhrCLAytHxN",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/51e96ef7356eb4e683a864fc63675f41766d4d75",
+    "imageShape": "small-square",
+    "genres": ["indie rock", "indie punk", "alternative emo", "canadian pop punk", "canadian punk", "toronto indie"],
+    "popularity": 62,
+    "sortedGenres": ["indie rock", "indie punk", "alternative emo", "canadian pop punk", "canadian punk", "toronto indie"],
+    "topTrackNames": ["Kids", "DVP", "Morbid Stuff"]
+  },
+  "id": "85aVqvWDRFnXyExnzndbWT"
+}, {
+  "artistName": "the Hu",
+  "night": "Friday",
+  "billing": 36,
+  "spotifyID": "0b2B3PwcYzQAhuJacmcYgc",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/e24fc10a5b8ce4266b226c90f4e1f2fdb186f4ef",
+    "imageShape": "small-square",
+    "genres": ["oriental metal"],
+    "popularity": 63,
+    "sortedGenres": ["oriental metal"],
+    "topTrackNames": ["Wolf Totem (feat. Jacoby Shaddix of Papa Roach)", "Yuve Yuve Yu", "Wolf Totem"]
+  },
+  "id": "nK2Ao8TfexMSxiveAWQw1X"
+}, {
+  "artistName": "The Regrettes",
+  "night": "Friday",
+  "billing": 37,
+  "spotifyID": "67WNUxmM7y4WzHPAVzBu3E",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5dca2656d221eeb0cfb1698c3aaabc0e41991378",
+    "imageShape": "small-square",
+    "genres": ["indie pop", "la indie"],
+    "popularity": 59,
+    "sortedGenres": ["indie pop", "la indie"],
+    "topTrackNames": ["Seashore", "I Dare You", "Pumpkin"]
+  },
+  "id": "b7ZDyc2WPQZD8Pa98nvx8D"
+}, {
+  "artistName": "Friendly Fires",
+  "night": "Friday",
+  "billing": 38,
+  "spotifyID": "3mZqziCJj4pq3P2VBpmK6p",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/cdc9d205a76f2a5bfbca0a7c18f33a9859ae87f6",
+    "imageShape": "small-square",
+    "genres": ["electronica", "indietronica", "alternative dance", "new rave", "dance-punk"],
+    "popularity": 57,
+    "sortedGenres": ["electronica", "indietronica", "alternative dance", "new rave", "dance-punk"],
+    "topTrackNames": ["Paris (Aeroplane Remix)", "Jump In The Pool", "Heaven Let Me In - MEDUZA Remix Edit"]
+  },
+  "id": "hbEk2iwwHPpTx9fVvbWwS3"
+}, {
+  "artistName": "Sleaford Mods",
+  "night": "Friday",
+  "billing": 39,
+  "spotifyID": "0otAqZw8htTsGHfqR491Yh",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ad9b6403af043977200cf840a70c2ec7d861ca59",
+    "imageShape": "small-square",
+    "genres": ["chamber psych", "nottingham indie"],
+    "popularity": 51,
+    "sortedGenres": ["chamber psych", "nottingham indie"],
+    "topTrackNames": ["Tied Up in Nottz", "B.H.S.", "Kebab Spider"]
+  },
+  "id": "4G55LGFQ9TB2zThDTkoEXC"
+}, {
+  "artistName": "Erick Morillo",
+  "night": "Friday",
+  "billing": 40,
+  "spotifyID": "4DE0cYxMnEEmfKLwDkYwxb",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/240548fc9d36404ba253f99ed4b8d1f63cb622d8",
+    "imageShape": "small-square",
+    "genres": ["disco house", "tech house", "tribal house", "vocal house"],
+    "popularity": 53,
+    "sortedGenres": ["disco house", "tech house", "tribal house", "vocal house"],
+    "topTrackNames": ["I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix", "Live Your Life - Radio Edit", "Promised Land - Erick Morillo Remix"]
+  },
+  "id": "cv6xuc8RDCLVkhs48uYPvY"
+}, {
+  "artistName": "Cashmere Cat",
+  "night": "Friday",
+  "billing": 41,
+  "spotifyID": "2LZDXcxJWgsJfKXZv9a5eG",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/518f07eb5dd0ad77aff3158c5f136081078803dd",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "edm", "dance pop", "post-teen pop", "downtempo", "shiver pop"],
+    "popularity": 67,
+    "sortedGenres": ["pop", "electropop", "edm", "dance pop", "post-teen pop", "downtempo", "shiver pop"],
+    "topTrackNames": ["Quit (feat. Ariana Grande)", "Miss You (with Major Lazer & Tory Lanez)", "Trust Nobody (feat. Selena Gomez & Tory Lanez)"]
+  },
+  "id": "pQnLLinS2f4UAUsZxqk3c4"
+}, {
+  "artistName": "Beach Bunny",
+  "night": "Friday",
+  "billing": 42,
+  "spotifyID": "2vnB6tuQMaQpORiRdvXF9H",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5a14b576aacbb8b8440f583a4dca236fc1483447",
+    "imageShape": "small-square",
+    "genres": ["indie pop", "chicago indie", "diy emo"],
+    "popularity": 67,
+    "sortedGenres": ["indie pop", "chicago indie", "diy emo"],
+    "topTrackNames": ["Prom Queen", "Sports", "Painkiller"]
+  },
+  "id": "nuRwVi5QHgsrPi2qhPgBQ2"
+}, {
+  "artistName": "Tiga",
+  "night": "Friday",
+  "billing": 43,
+  "spotifyID": "5l9wiTZVfqQTfMDOt0HtwC",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/16411908b261c67ceeefb78681b09caaeb8de931",
+    "imageShape": "other",
+    "genres": ["electronica", "alternative dance", "minimal techno", "new rave", "dance-punk", "canadian electronic", "filter house", "electroclash"],
+    "popularity": 53,
+    "sortedGenres": ["electronica", "alternative dance", "minimal techno", "new rave", "dance-punk", "canadian electronic", "filter house", "electroclash"],
+    "topTrackNames": ["HAL", "Sunglasses At Night - Original 12 \" Version", "You Gonna Want Me"]
+  },
+  "id": "vQBwops7tN3kmv1VuiLGkK"
+}, {
+  "artistName": "Amyl & the Sniffers",
+  "night": "Friday",
+  "billing": 44,
+  "spotifyID": "3NqV2DJoAWsjl787bWaHW7",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/524d074dbaeccd08fb1529657e581a617f88c033",
+    "imageShape": "small-square",
+    "genres": ["australian garage punk"],
+    "popularity": 49,
+    "sortedGenres": ["australian garage punk"],
+    "topTrackNames": ["I'm Not a Loser", "Got You", "Monsoon Rock"]
+  },
+  "id": "4X1sovNuwTxomSJeDahKTt"
+}, {
+  "artistName": "Amber Mark",
+  "night": "Friday",
+  "billing": 45,
+  "spotifyID": "0tbeZu9lv8YEKSQ9tZSslu",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ba2011b6b8d5fe92dafeb54f7aaaf4e3749d3361",
+    "imageShape": "small-square",
+    "genres": ["electropop", "indie soul", "alternative r&b", "indie r&b", "nyc pop"],
+    "popularity": 65,
+    "sortedGenres": ["electropop", "indie soul", "alternative r&b", "indie r&b", "nyc pop"],
+    "topTrackNames": ["Lose My Cool", "Love Me Right", "Mixer"]
+  },
+  "id": "dbqxAMnLU6D9JwqeHaK4Mu"
+}, {
+  "artistName": "Code Orange",
+  "night": "Friday",
+  "billing": 46,
+  "spotifyID": "6qtECqesbU29iftyeWmldK",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/b435bf4df83660dabe3096826482dff47bc1aa38",
+    "imageShape": "small-square",
+    "genres": [],
+    "popularity": 51,
+    "sortedGenres": [],
+    "topTrackNames": ["Let Me In (\"The Fiend\" Bray Wyatt)", "Forever", "Bleeding In The Blur"]
+  },
+  "id": "nC8oNndQigrHX14X4NTFDr"
+}, {
+  "artistName": "l'imperatrice",
+  "night": "Friday",
+  "billing": 47,
+  "spotifyID": "4PwlsrN0t5mLN0C827cbEU",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/476d073eedde62ac86bebfa8adf299a301144923",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "electronica", "french indie pop", "french indietronica", "new french touch"],
+    "popularity": 63,
+    "sortedGenres": ["indie soul", "electronica", "french indie pop", "french indietronica", "new french touch"],
+    "topTrackNames": ["Vanille fraise", "Sonate Pacifique", "Agitations tropicales"]
+  },
+  "id": "jyDUPTGp5nPMqyCKuFRXKu"
+}, {
+  "artistName": "Kyle Watson",
+  "night": "Friday",
+  "billing": 48,
+  "spotifyID": "7LJSAfWhO7jhjnewy6pKyZ",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/9289819f5f591d32c27159e18c8bb570d301fa48",
+    "imageShape": "small-square",
+    "genres": ["house", "electro house", "bass house", "fidget house"],
+    "popularity": 53,
+    "sortedGenres": ["house", "electro house", "bass house", "fidget house"],
+    "topTrackNames": ["Sides", "Moments", "Solace"]
+  },
+  "id": "oQ2MjnUMLZ8WuQQLsCvAq"
+}, {
+  "artistName": "VNSSA",
+  "night": "Friday",
+  "billing": 49,
+  "spotifyID": "6fjbZ7zQBYEy3kvB5JL5PM",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/c9b4ac8097e96ca8ebdc7c1ef3024530ac673dfe",
+    "imageShape": "small-square",
+    "genres": [],
+    "popularity": 47,
+    "sortedGenres": [],
+    "topTrackNames": ["Rave Grave", "The Biznes", "Magic - Steve Darko Remix"]
+  },
+  "id": "vD4JY6wk3FHaRmuyVGzVfK"
+}, {
+  "artistName": "Lost Kings",
+  "night": "Friday",
+  "billing": 50,
+  "spotifyID": "3hyEbRtp617pNCuuQjyOmc",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/3f57a725dbc1507ab2b852b2a8207cb45d70710a",
+    "imageShape": "small-square",
+    "genres": ["pop", "edm", "dance pop", "tropical house", "indie poptimism", "pop edm"],
+    "popularity": 71,
+    "sortedGenres": ["pop", "edm", "dance pop", "tropical house", "indie poptimism", "pop edm"],
+    "topTrackNames": ["Anti-Everything", "When We Were Young", "Don't Kill My High"]
+  },
+  "id": "jvoZgT5EWyqQ2RcS4Wf1i7"
+}, {
+  "artistName": "Jayda G",
+  "night": "Friday",
+  "billing": 51,
+  "spotifyID": "3NKVm2Jedcf6ibJr6pMUVx",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5f338c59a0ddc78127efc0b13d6b57bc16e1e6b0",
+    "imageShape": "small-square",
+    "genres": ["float house", "canadian electronic"],
+    "popularity": 39,
+    "sortedGenres": ["float house", "canadian electronic"],
+    "topTrackNames": ["Heaven Could Be Lately", "Rishikesh", "Move to the Front - Disco Mix [Dâm-Funk Re-Freak]"]
+  },
+  "id": "vETav24Ufq7Yp5L2UYn9ym"
+}, {
+  "artistName": "Giselle Woo & the Night Owls",
+  "night": "Friday",
+  "billing": 52,
+  "spotifyID": "1WI9uFufFkL3pe9Jz1Fsz6",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/efaaaf0b20e953f0189370bb0110ff2532755fec",
+    "imageShape": "small-square",
+    "genres": [],
+    "popularity": 0,
+    "sortedGenres": [],
+    "topTrackNames": ["No Basta", "Coachella Gold", "Azul"]
+  },
+  "id": "5NGX4y2TkJSQgHHqWeb8HX"
+}, {
+  "artistName": "Mele",
+  "night": "Friday",
+  "billing": 53,
+  "spotifyID": "6EZO7Baz0SIFskWTO1GHqX",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/4888459e07b649085a88b1d5303c17492bb7424b",
+    "imageShape": "small-square",
+    "genres": ["future garage", "uk house"],
+    "popularity": 41,
+    "sortedGenres": ["future garage", "uk house"],
+    "topTrackNames": ["Pasilda", "The 95 Vibe", "Ambience"]
+  },
+  "id": "BTT3WbfQfBL7GS3nMk8LR"
+}, {
+  "artistName": "Ela Minus",
+  "night": "Friday",
+  "billing": 54,
+  "spotifyID": "4rdJkXHNrMgowlwUdQAg8T",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/e0644312855cbef9a2b8c837066404830544297f",
+    "imageShape": "small-square",
+    "genres": ["colombian indie", "latintronica"],
+    "popularity": 44,
+    "sortedGenres": ["colombian indie", "latintronica"],
+    "topTrackNames": ["SALTA", "Ceremony", "NO TE VAYAS SIN DECIRME A DONDE"]
+  },
+  "id": "2Xr3JuUeuS5VAfQu6AETY7"
+}, {
+  "artistName": "Kynda Black",
+  "night": "Friday",
+  "billing": 55,
+  "spotifyID": null,
+  "spotifyInfo": {},
+  "id": "pGepbsNiMQt8veTbS3cpo5"
+}, {
+  "artistName": "Travis Scott",
+  "night": "Saturday",
+  "billing": 1,
+  "spotifyID": "0Y5tJX1MQlPlqiwlOH1tJY",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/d7a58203669d00936dd5b89ba6f6e192c119532d",
+    "imageShape": "small-square",
+    "genres": ["rap"],
+    "popularity": 98,
+    "sortedGenres": ["rap"],
+    "topTrackNames": ["HIGHEST IN THE ROOM", "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX", "SICKO MODE"]
+  },
+  "id": "uZ574g4qHTbYL41ZyTafgS"
+}, {
+  "artistName": "Flume",
+  "night": "Saturday",
+  "billing": 2,
+  "spotifyID": "6nxWCVXbOlEVRexSbLsTer",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/4de17e04084c6e1a580f8051305679ca0988abf7",
+    "imageShape": "small-square",
+    "genres": ["edm", "downtempo", "australian indie", "australian dance", "australian electropop"],
+    "popularity": 80,
+    "sortedGenres": ["edm", "downtempo", "australian indie", "australian dance", "australian electropop"],
+    "topTrackNames": ["Rushing Back", "You & Me - Flume Remix", "Never Be Like You (feat. Kai)"]
+  },
+  "id": "w59nwkVDX8E3nA9cUqo2G9"
+}, {
+  "artistName": "Thom Yorke",
+  "night": "Saturday",
+  "billing": 3,
+  "spotifyID": "4CvTDPKA6W06DRfBnZKrau",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/8f6ec788c2c69105ae06732ff2e2611b4810b698",
+    "imageShape": "small-square",
+    "genres": ["art pop", "electronica", "indie rock", "alternative dance", "chamber pop", "oxford indie"],
+    "popularity": 66,
+    "sortedGenres": ["art pop", "electronica", "indie rock", "alternative dance", "chamber pop", "oxford indie"],
+    "topTrackNames": ["Suspirium", "Dawn Chorus", "Black Swan"]
+  },
+  "id": "sdxzqkbYo1QWPBLqAYExUR"
+}, {
+  "artistName": "Disclosure",
+  "night": "Saturday",
+  "billing": 4,
+  "spotifyID": "6nS5roXSAGhTGr34W6n7Et",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/08dce620c96c0a37f99cafba720b2804bf113d44",
+    "imageShape": "small-square",
+    "genres": ["pop", "tropical house", "house", "uk dance"],
+    "popularity": 81,
+    "sortedGenres": ["pop", "tropical house", "house", "uk dance"],
+    "topTrackNames": ["Talk", "You & Me - Flume Remix", "Latch"]
+  },
+  "id": "eRhAmz8XKBBfZoAWNqaYkz"
+}, {
+  "artistName": "21 Savage",
+  "night": "Saturday",
+  "billing": 5,
+  "spotifyID": "1URnnhqYAYcrqrcwql10ft",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/959e1d873f53832e8102f4188ee3cae25b83d5da",
+    "imageShape": "small-square",
+    "genres": ["rap", "pop rap", "trap", "southern hip hop", "atl hip hop"],
+    "popularity": 89,
+    "sortedGenres": ["rap", "pop rap", "trap", "southern hip hop", "atl hip hop"],
+    "topTrackNames": ["Immortal", "a lot", "Bank Account"]
+  },
+  "id": "pwige3eg6LNQyMbYB8bgnq"
+}, {
+  "artistName": "Danny Elfman",
+  "night": "Saturday",
+  "billing": 6,
+  "spotifyID": "5qBZETtyzfYnXOobDXbmcD",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/51745ce1da01c4b3e3f53218be4598a87ca1d962",
+    "imageShape": "other",
+    "genres": ["soundtrack", "scorecore"],
+    "popularity": 67,
+    "sortedGenres": ["soundtrack", "scorecore"],
+    "topTrackNames": ["What's This? - From “The Nightmare Before Christmas” / Soundtrack Version", "The Batman Theme", "Jack's Lament"]
+  },
+  "id": "8abj42Hh7DzvMzxjeNipQX"
+}, {
+  "artistName": "DaBaby",
+  "night": "Saturday",
+  "billing": 7,
+  "spotifyID": "4r63FhuTkUYltbVAg5TQnk",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/1b6dd2116962f6d9741d0181708e31006b5048a7",
+    "imageShape": "small-square",
+    "genres": ["rap", "nc hip hop"],
+    "popularity": 95,
+    "sortedGenres": ["rap", "nc hip hop"],
+    "topTrackNames": ["BOP", "VIBEZ", "Suge"]
+  },
+  "id": "4hCPsgzW3p37PuvttCpVUM"
+}, {
+  "artistName": "Summer Walker",
+  "night": "Saturday",
+  "billing": 8,
+  "spotifyID": "57LYzLEk2LcFghVwuWbcuS",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/89def440dabb2f4570658b0b259abe9fe27a48d9",
+    "imageShape": "small-square",
+    "genres": ["pop", "alternative r&b", "pop rap"],
+    "popularity": 85,
+    "sortedGenres": ["pop", "alternative r&b", "pop rap"],
+    "topTrackNames": ["Playing Games (with Bryson Tiller) - Extended Version", "Come Thru (with Usher)", "Girls Need Love (with Drake) - Remix"]
+  },
+  "id": "68iXuyNoBbf4KMzzFVg8M9"
+}, {
+  "artistName": "Anitta",
+  "night": "Saturday",
+  "billing": 9,
+  "spotifyID": "7FNnA9vBm6EKceENgCGRMb",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/e86687f259f35a2be1024928c72038a8ab9445ee",
+    "imageShape": "small-square",
+    "genres": ["baile pop", "funk carioca", "funk das antigas"],
+    "popularity": 89,
+    "sortedGenres": ["baile pop", "funk carioca", "funk das antigas"],
+    "topTrackNames": ["Bellaquita - Remix", "Combatchy (feat. MC Rebecca)", "Some que ele vem atrás"]
+  },
+  "id": "tMMom35aDxVYpgLegbgH1j"
+}, {
+  "artistName": "Caribou",
+  "night": "Saturday",
+  "billing": 10,
+  "spotifyID": "4aEnNH9PuU1HF3TsZTru54",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/df0a17ba43b15b79b35bac1bda7e632371060afe",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "electronica", "indietronica", "indie rock", "alternative dance", "new rave", "chamber pop", "dance-punk", "chillwave", "folktronica", "intelligent dance music"],
+    "popularity": 66,
+    "sortedGenres": ["indie soul", "electronica", "indietronica", "indie rock", "alternative dance", "new rave", "chamber pop", "dance-punk", "chillwave", "folktronica", "intelligent dance music"],
+    "topTrackNames": ["You and I", "Bees", "Home"]
+  },
+  "id": "fBJnKG1YrRi7G5VTxSt9W6"
+}, {
+  "artistName": "Joji",
+  "night": "Saturday",
+  "billing": 11,
+  "spotifyID": "3MZsBdqDrRTJihTHQrO6Dq",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/30e6135b643e087c40e9bd52d0e9df314e404621",
+    "imageShape": "small-square",
+    "genres": ["pop", "alternative r&b", "viral pop"],
+    "popularity": 85,
+    "sortedGenres": ["pop", "alternative r&b", "viral pop"],
+    "topTrackNames": ["SLOW DANCING IN THE DARK", "Sanctuary", "YEAH RIGHT"]
+  },
+  "id": "9ieNf4sU9WjYD8kGL4QoM4"
+}, {
+  "artistName": "Testpilot",
+  "night": "Saturday",
+  "billing": 12,
+  "spotifyID": "4KZ2CyWpeORBTUd4vBAqnN",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273737cb49021ec79f55de1d75d",
+    "imageShape": "other",
+    "genres": [],
+    "popularity": 15,
+    "sortedGenres": [],
+    "topTrackNames": ["Sunspot (White Space Conflict) - Original Mix", "Sunspot (White Space Conflict) - Pig&Dan Remix"]
+  },
+  "id": "uCemg7u9EqoZnX6ejYt5p6"
+}, {
+  "artistName": "Swae Lee",
+  "night": "Saturday",
+  "billing": 13,
+  "spotifyID": "1zNqQNIdeOUZHb8zbZRFMX",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/7925a44dd62d93c5b0ccce5389fc6103d6ee6083",
+    "imageShape": "small-square",
+    "genres": ["trap"],
+    "popularity": 89,
+    "sortedGenres": ["trap"],
+    "topTrackNames": ["Sunflower - Spider-Man: Into the Spider-Verse", "Close To Me (with Diplo) (feat. Swae Lee)", "Unforgettable"]
+  },
+  "id": "dntUz1SNqwdh6SVLb6nhJm"
+}, {
+  "artistName": "Black Coffee",
+  "night": "Saturday",
+  "billing": 14,
+  "spotifyID": "6wMr4zKPrrR0UVz08WtUWc",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/2c46c4542d8796b9a26c97d413f0411db7dd81ba",
+    "imageShape": "small-square",
+    "genres": ["deep house", "afro house", "kwaito house"],
+    "popularity": 66,
+    "sortedGenres": ["deep house", "afro house", "kwaito house"],
+    "topTrackNames": ["Drive - Edit", "LaLaLa", "Embrace - Black Coffee + Aquatone Remix"]
+  },
+  "id": "xBuzRjSu1AbkuzpKQi84NT"
+}, {
+  "artistName": "Cuco",
+  "night": "Saturday",
+  "billing": 15,
+  "spotifyID": "2Tglaf8nvDzwSQnpSrjLHP",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a86bba0f3f0ce99666eca8e64cab610f56403497",
+    "imageShape": "small-square",
+    "genres": ["dream pop"],
+    "popularity": 78,
+    "sortedGenres": ["dream pop"],
+    "topTrackNames": ["Lo Que Siento", "Lover Is a Day", "Dontmakemefallinlove"]
+  },
+  "id": "2ptXJMgTUAY1WeQxtyMhgw"
+}, {
+  "artistName": "Jai Wolf",
+  "night": "Saturday",
+  "billing": 16,
+  "spotifyID": "24V5UY0nChKpnb1TBPJhCw",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/fb55fc0fe82d595099f087a3d3bc7e3eab5b1b37",
+    "imageShape": "small-square",
+    "genres": ["electropop", "edm", "tropical house", "indietronica", "indie poptimism", "pop edm", "vapor soul", "vapor twitch", "indie electropop"],
+    "popularity": 66,
+    "sortedGenres": ["electropop", "edm", "tropical house", "indietronica", "indie poptimism", "pop edm", "vapor soul", "vapor twitch", "indie electropop"],
+    "topTrackNames": ["Lose My Mind (feat. Mr Gabriel)", "Indian Summer", "Starlight"]
+  },
+  "id": "wpVq7gSqZCxPLeUUBiZyJo"
+}, {
+  "artistName": "Roddy Ricch",
+  "night": "Saturday",
+  "billing": 17,
+  "spotifyID": "757aE44tKEUQEqRuT6GnEB",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ad705fa61c78d83302a058a3db06b2ed8a7ec9a8",
+    "imageShape": "small-square",
+    "genres": ["rap", "trap", "melodic rap"],
+    "popularity": 92,
+    "sortedGenres": ["rap", "trap", "melodic rap"],
+    "topTrackNames": ["The Box", "Ballin' (with Roddy Ricch)", "Peta (feat. Meek Mill)"]
+  },
+  "id": "eQGFLhvbPo7KNEEkK2xqZw"
+}, {
+  "artistName": "Yaeji",
+  "night": "Saturday",
+  "billing": 18,
+  "spotifyID": "2RqrWplViWHSGLzlhmDcbt",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/8753ae52349fd6e2fd99fbba07c000800f62463c",
+    "imageShape": "small-square",
+    "genres": ["electropop", "art pop", "escape room", "experimental house"],
+    "popularity": 60,
+    "sortedGenres": ["electropop", "art pop", "escape room", "experimental house"],
+    "topTrackNames": ["raingurl", "passionfruit", "One More"]
+  },
+  "id": "7Ly6yeQdMcpzoZeyDFzCzM"
+}, {
+  "artistName": "Koffee",
+  "night": "Saturday",
+  "billing": 19,
+  "spotifyID": "1gWjcmBsveEYMxOZ0VRi32",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/6cbb92f8a39b194afb2513312e9fa6b93dcae69f",
+    "imageShape": "small-square",
+    "genres": ["dancehall"],
+    "popularity": 70,
+    "sortedGenres": ["dancehall"],
+    "topTrackNames": ["W (feat. Gunna)", "Toast", "Rapture"]
+  },
+  "id": "9WHoyqHJSqfaHatq8ApHfm"
+}, {
+  "artistName": "Tchami",
+  "night": "Saturday",
+  "billing": 20,
+  "spotifyID": "1KpCi9BOfviCVhmpI4G2sY",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/451afdf987b9a189fca88d16b5492c547528737e",
+    "imageShape": "other",
+    "genres": ["edm", "tropical house", "house", "electro house", "electronic trap", "progressive house", "bass house", "deep groove house", "future house"],
+    "popularity": 66,
+    "sortedGenres": ["edm", "tropical house", "house", "electro house", "electronic trap", "progressive house", "bass house", "deep groove house", "future house"],
+    "topTrackNames": ["Made In France (with Tchami & Malaa, feat. Mercer)", "Shades (feat. Donnie Sloan & Ricky Ducati)", "Adieu"]
+  },
+  "id": "93RnyuGx8aYQNjP1XxDJ8R"
+}, {
+  "artistName": "Dixon",
+  "night": "Saturday",
+  "billing": 21,
+  "spotifyID": "00oL7zWxmWveTsKF7DnIRd",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/29540e5ee88c14b9fea697c77b482345578c1aa4",
+    "imageShape": "small-square",
+    "genres": ["soundtrack", "horror synth"],
+    "popularity": 63,
+    "sortedGenres": ["soundtrack", "horror synth"],
+    "topTrackNames": ["Stranger Things", "Kids", "The First I love You"]
+  },
+  "id": "toXnip241KVn5B7SpStWWo"
+}, {
+  "artistName": "Hot Chip",
+  "night": "Saturday",
+  "billing": 22,
+  "spotifyID": "37uLId6Z5ZXCx19vuruvv5",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/38271e07fdcb7de016a7a8b279a481a3fb932edb",
+    "imageShape": "small-square",
+    "genres": ["electropop", "art pop", "indie pop", "dance pop", "electronica", "indietronica", "indie rock", "alternative dance", "new rave", "modern rock", "dance-punk", "neo-synthpop"],
+    "popularity": 66,
+    "sortedGenres": ["electropop", "art pop", "indie pop", "dance pop", "electronica", "indietronica", "indie rock", "alternative dance", "new rave", "modern rock", "dance-punk", "neo-synthpop"],
+    "topTrackNames": ["Ready For The Floor", "Over And Over", "Boy From School"]
+  },
+  "id": "jTGpFtpPBEUgZyKULbCcqV"
+}, {
+  "artistName": "Carly Rae Jepsen",
+  "night": "Saturday",
+  "billing": 23,
+  "spotifyID": "6sFIWsNpZYqfjUpaCgueju",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/2069ca9d10e41bf1b2750b23a12842354766e7e7",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "dance pop", "indie poptimism", "post-teen pop", "canadian pop"],
+    "popularity": 78,
+    "sortedGenres": ["pop", "electropop", "dance pop", "indie poptimism", "post-teen pop", "canadian pop"],
+    "topTrackNames": ["Call Me Maybe", "Good Time", "Lalala - Remix - [feat. Enrique Iglesias & Carly Rae Jepsen]"]
+  },
+  "id": "hG4dvpGuQHYZzMUAzEPXcR"
+}, {
+  "artistName": "DJ Koze",
+  "night": "Saturday",
+  "billing": 24,
+  "spotifyID": "1kR99O4MgSTasyeJh8UFCg",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/dc2ded4f8cd1c204d21d69069026e39a6c1c60e9",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "electronica", "indietronica", "minimal techno", "float house", "microhouse", "tech house", "deep house", "german techno", "hamburg electronic"],
+    "popularity": 61,
+    "sortedGenres": ["indie soul", "electronica", "indietronica", "minimal techno", "float house", "microhouse", "tech house", "deep house", "german techno", "hamburg electronic"],
+    "topTrackNames": ["Pick Up", "Operator (DJ Koze's Disco Edit)", "It'll All Be Over - DJ Koze Remix - Radio Edit"]
+  },
+  "id": "u9H3efqXTLMnfhDLe9yzHb"
+}, {
+  "artistName": "Floating Points",
+  "night": "Saturday",
+  "billing": 25,
+  "spotifyID": "2AR42Ur9PcchQDtEdwkv4L",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/8b81c217ec73296028fff93b8db3116eb23d540c",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "art pop", "electronica", "indietronica", "chamber psych", "alternative dance", "minimal techno", "new rave", "float house", "microhouse", "bass music", "future garage", "indie jazz", "wonky"],
+    "popularity": 59,
+    "sortedGenres": ["indie soul", "art pop", "electronica", "indietronica", "chamber psych", "alternative dance", "minimal techno", "new rave", "float house", "microhouse", "bass music", "future garage", "indie jazz", "wonky"],
+    "topTrackNames": ["King Bromeliad", "Back to Basics (feat. Skepta) (Floating Points Remix)", "LesAlpx"]
+  },
+  "id": "dxc9piRHh4HHFGP6cc1s9"
+}, {
+  "artistName": "Freddie Gibbs",
+  "night": "Saturday",
+  "billing": 26,
+  "spotifyID": "0Y4inQK6OespitzD6ijMwb",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/dc14ef027ef430a0b30f075ce9b270d8c051f7a7",
+    "imageShape": "small-square",
+    "genres": ["rap", "hip hop", "escape room", "underground hip hop", "alternative hip hop", "southern hip hop"],
+    "popularity": 71,
+    "sortedGenres": ["rap", "hip hop", "escape room", "underground hip hop", "alternative hip hop", "southern hip hop"],
+    "topTrackNames": ["Crime Pays", "Palmolive (feat. Pusha T & Killer Mike)", "Giannis (feat. Anderson .Paak)"]
+  },
+  "id": "tF3EReNuP8vPN5Wkp1JnjR"
+}, {
+  "artistName": "Madlib",
+  "night": "Saturday",
+  "billing": 26,
+  "spotifyID": "5LhTec3c7dcqBvpLRWbMcf",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/9b40140f2416568790e8497318f564e21f37bde4",
+    "imageShape": "other",
+    "genres": ["indie soul", "hip hop", "alternative hip hop", "funk"],
+    "popularity": 69,
+    "sortedGenres": ["indie soul", "hip hop", "alternative hip hop", "funk"],
+    "topTrackNames": ["Crime Pays", "Palmolive (feat. Pusha T & Killer Mike)", "Giannis (feat. Anderson .Paak)"]
+  },
+  "id": "57XzetpVnrDHdTY2cH1uvo"
+}, {
+  "artistName": "BADBADNOTGOOD",
+  "night": "Saturday",
+  "billing": 27,
+  "spotifyID": "65dGLGjkw3UbddUg2GKQoZ",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/8ca38a6de79d3de270fec354d2cc5bbd6adb212c",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "escape room", "alternative hip hop", "canadian modern jazz", "dark jazz"],
+    "popularity": 65,
+    "sortedGenres": ["indie soul", "escape room", "alternative hip hop", "canadian modern jazz", "dark jazz"],
+    "topTrackNames": ["WEIGHT OFF", "Time Moves Slow", "In Your Eyes"]
+  },
+  "id": "aPa59uDkPKyRnGecTEbetq"
+}, {
+  "artistName": "Pabllo Vittar",
+  "night": "Saturday",
+  "billing": 28,
+  "spotifyID": "6tzRZ39aZlNqlUzQlkuhDV",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/61c019104829133f616dbddd5b6936a6a4c98233",
+    "imageShape": "small-square",
+    "genres": ["pop", "baile pop", "funk carioca", "pop nacional"],
+    "popularity": 78,
+    "sortedGenres": ["pop", "baile pop", "funk carioca", "pop nacional"],
+    "topTrackNames": ["Amor de Que", "Parabéns", "Garupa"]
+  },
+  "id": "bm7jrcydNqqADaTG2ET8Hs"
+}, {
+  "artistName": "Mika",
+  "night": "Saturday",
+  "billing": 29,
+  "spotifyID": "3JDG63cSaK3xgDnB2H55Xp",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/f445c2ce8413ba8828603022a2daa24c2ccb1f87",
+    "imageShape": "small-square",
+    "genres": ["pop"],
+    "popularity": 64,
+    "sortedGenres": ["pop"],
+    "topTrackNames": ["Y U Gotta B Like That", "Fake Heartbreak", "Blueberry Skies"]
+  },
+  "id": "8NWYZS69GmMaf3RCz6L3WR"
+}, {
+  "artistName": "Anna",
+  "night": "Saturday",
+  "billing": 30,
+  "spotifyID": "2y9j8qUwBMGPYPQJJxmYzD",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/89b75e9d211e2185d1b443693fdafd0c5600190b",
+    "imageShape": "small-square",
+    "genres": ["pop", "post-teen pop", "social media pop"],
+    "popularity": 69,
+    "sortedGenres": ["pop", "post-teen pop", "social media pop"],
+    "topTrackNames": ["Boys Like You - Acoustic", "Boys Like You", "Invisible"]
+  },
+  "id": "c37mNaRqzAY6P6tv4cuME2"
+}, {
+  "artistName": "Snail Mail",
+  "night": "Saturday",
+  "billing": 31,
+  "spotifyID": "4QkSD9TRUnMtI8Fq1jXJJe",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a42803bc0426ddc5f4118ae9483f8cd2f599225f",
+    "imageShape": "small-square",
+    "genres": ["art pop", "indie pop", "indie rock", "baltimore indie"],
+    "popularity": 59,
+    "sortedGenres": ["art pop", "indie pop", "indie rock", "baltimore indie"],
+    "topTrackNames": ["Pristine", "Heat Wave", "Speaking Terms"]
+  },
+  "id": "pUuR2dQQdgooNmAPnYr9Ra"
+}, {
+  "artistName": "Kruder & Dorfmeister",
+  "night": "Saturday",
+  "billing": 32,
+  "spotifyID": "39ywlwtGw8RTGobakgb11L",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/498537784a3833bc30cf8d62f930a2a1e88253e0",
+    "imageShape": "small-square",
+    "genres": ["electronica", "downtempo", "big beat", "trip hop", "acid jazz", "ninja", "nu jazz"],
+    "popularity": 47,
+    "sortedGenres": ["electronica", "downtempo", "big beat", "trip hop", "acid jazz", "ninja", "nu jazz"],
+    "topTrackNames": ["Black Baby (DJ-KiCKS)", "High Noon", "Shakatakadoodub"]
+  },
+  "id": "8M1nQoPPnZ7WNkSPxrGHNX"
+}, {
+  "artistName": "Steve Lacy",
+  "night": "Saturday",
+  "billing": 34,
+  "spotifyID": "57vWImR43h4CaDao012Ofp",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a0a5eb30dd56ed9db5fa6d11b23f653ea785f88f",
+    "imageShape": "small-square",
+    "genres": ["rap", "alternative r&b"],
+    "popularity": 73,
+    "sortedGenres": ["rap", "alternative r&b"],
+    "topTrackNames": ["Dark Red", "C U Girl", "Sunflower (feat. Steve Lacy)"]
+  },
+  "id": "dPHjYhZVsGmD41NBAu9Ypm"
+}, {
+  "artistName": "Weyes Blood",
+  "night": "Saturday",
+  "billing": 35,
+  "spotifyID": "3Uqu1mEdkUJxPe7s31n1M9",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/95188617236e3f764d73ba1eace6308706695820",
+    "imageShape": "small-square",
+    "genres": ["art pop", "indie pop", "chamber psych", "indie rock", "chamber pop", "experimental pop", "freak folk", "experimental folk"],
+    "popularity": 64,
+    "sortedGenres": ["art pop", "indie pop", "chamber psych", "indie rock", "chamber pop", "experimental pop", "freak folk", "experimental folk"],
+    "topTrackNames": ["Andromeda", "Suddenly", "Movies"]
+  },
+  "id": "3K58jkJR9npHMAHfTfxGmJ"
+}, {
+  "artistName": "Masego",
+  "night": "Saturday",
+  "billing": 36,
+  "spotifyID": "3ycxRkcZ67ALN3GQJ57Vig",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/785b40679d214304f9758316d7c00640f729a2c1",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "alternative r&b"],
+    "popularity": 74,
+    "sortedGenres": ["indie soul", "alternative r&b"],
+    "topTrackNames": ["Tadow", "Navajo", "Need It"]
+  },
+  "id": "qmWazhSbzrtJXF2Wqx1pve"
+}, {
+  "artistName": "Orville Peck",
+  "night": "Saturday",
+  "billing": 37,
+  "spotifyID": "46auOkH1pk28rWrSoUNhLo",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/972c4a7d15ddac46f8904540e574fd2b60620c56",
+    "imageShape": "small-square",
+    "genres": [],
+    "popularity": 61,
+    "sortedGenres": [],
+    "topTrackNames": ["Dead of Night", "Turn to Hate", "Winds Change"]
+  },
+  "id": "d1LZb3pd6JhPRNLSZdMszH"
+}, {
+  "artistName": "Chelsea Cutler",
+  "night": "Saturday",
+  "billing": 38,
+  "spotifyID": "5JMLG56F1X5mFmWNmS0iAp",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/6946566ca74178fb39765f1c64fa241952636dd4",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "indie pop", "pop rap", "indietronica", "indie poptimism"],
+    "popularity": 80,
+    "sortedGenres": ["pop", "electropop", "indie pop", "pop rap", "indietronica", "indie poptimism"],
+    "topTrackNames": ["you were good to me", "better off", "Not Ok"]
+  },
+  "id": "s7X6bDMoiwgHjiuNXxvHVz"
+}, {
+  "artistName": "Seun Kuti & Egypt 80",
+  "night": "Saturday",
+  "billing": 39,
+  "spotifyID": "1GQur7dDvAWhKT9u9YwBJZ",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/566f0cf2786f8cedc164f6bfbfb88bafb7f8e0bf",
+    "imageShape": "small-square",
+    "genres": ["afrobeat", "afropop", "world"],
+    "popularity": 45,
+    "sortedGenres": ["afrobeat", "afropop", "world"],
+    "topTrackNames": ["Black Times - Radio Edit", "Beasts of No Nation - Leeroy Presents Fela Is the Future", "African Dreams"]
+  },
+  "id": "pwPkYPkCGuHjDisyo9JMbb"
+}, {
+  "artistName": "Matoma",
+  "night": "Saturday",
+  "billing": 40,
+  "spotifyID": "4YXycRbyyAE0wozTk7QMEq",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5205dbee7dc91ebb62fa0f35434297e5dc478aa0",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "edm", "dance pop", "tropical house", "electro house", "pop edm", "deep tropical house"],
+    "popularity": 75,
+    "sortedGenres": ["pop", "electropop", "edm", "dance pop", "tropical house", "electro house", "pop edm", "deep tropical house"],
+    "topTrackNames": ["All Night", "Old Thing Back (feat. Ja Rule and Ralph Tresvant)", "Bruised Not Broken (feat. MNEK & Kiana Ledé)"]
+  },
+  "id": "ajZgbfkq8WGGJ4ZToiFbuN"
+}, {
+  "artistName": "100 Gecs",
+  "night": "Saturday",
+  "billing": 41,
+  "spotifyID": "6PfSUFtkMVoDkx4MQkzOi3",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/11e4a30c0e6b8cd1524181584e958805e9bc1c4d",
+    "imageShape": "small-square",
+    "genres": ["art pop", "dance pop", "escape room", "underground hip hop", "hyperpop"],
+    "popularity": 62,
+    "sortedGenres": ["art pop", "dance pop", "escape room", "underground hip hop", "hyperpop"],
+    "topTrackNames": ["money machine", "hand crushed by a mallet", "stupid horse"]
+  },
+  "id": "wB6CQSZ6zKuJRHxL4AuDPo"
+}, {
+  "artistName": "black midi",
+  "night": "Saturday",
+  "billing": 42,
+  "spotifyID": "7Hvq85OU8T7Hsd63zNBwaL",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/915eaab66e23e495dd336f4635218c945f2babaf",
+    "imageShape": "small-square",
+    "genres": ["chamber psych", "noise pop", "experimental rock", "uk noise rock", "uk post-punk revival"],
+    "popularity": 52,
+    "sortedGenres": ["chamber psych", "noise pop", "experimental rock", "uk noise rock", "uk post-punk revival"],
+    "topTrackNames": ["953", "bmbmbm", "Ducter"]
+  },
+  "id": "benxaDdFqLGSEehAQerurb"
+}, {
+  "artistName": "Nilüfer Yanya",
+  "night": "Saturday",
+  "billing": 43,
+  "spotifyID": "09kXLeOXRyfNQMXRaDO4qA",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/fd94335b982e85dbfb5a609c2edbf141b1e0c596",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "art pop", "uk alternative pop"],
+    "popularity": 59,
+    "sortedGenres": ["indie soul", "art pop", "uk alternative pop"],
+    "topTrackNames": ["Keep on Calling", "The Florist", "Baby Blu"]
+  },
+  "id": "jNSMfnvXR77PvFk9Yb8US8"
+}, {
+  "artistName": "Chris Liebing",
+  "night": "Saturday",
+  "billing": 44,
+  "spotifyID": "21444lX8gpmOX36icLmbFI",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/74abae8938be106b97a082cb1ee02a0500ecf622",
+    "imageShape": "small-square",
+    "genres": ["minimal techno", "german techno", "frankfurt electronic", "schranz", "techno"],
+    "popularity": 46,
+    "sortedGenres": ["minimal techno", "german techno", "frankfurt electronic", "schranz", "techno"],
+    "topTrackNames": ["Liquid Slow", "In Memory", "Novembergrey (feat. Ralf Hildenbeutal)"]
+  },
+  "id": "jYAA3wHia73WRjiHRTUi5A"
+}, {
+  "artistName": "Raveena",
+  "night": "Saturday",
+  "billing": 45,
+  "spotifyID": "2kQnsbKnIiMahOetwlfcaS",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/6d739ceee4b65b390fdc6dfbb379b6e6960e29b3",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "alternative r&b", "indie r&b"],
+    "popularity": 63,
+    "sortedGenres": ["indie soul", "alternative r&b", "indie r&b"],
+    "topTrackNames": ["If Only", "Sweet Time", "Honey"]
+  },
+  "id": "8GWfcvjHAjqv5THRk6Uh9G"
+}, {
+  "artistName": "Sasha Sloan",
+  "night": "Saturday",
+  "billing": 46,
+  "spotifyID": "4xnihxcoXWK3UqryOSnbw5",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/c2f8552c7f55111464debf2fd479433269754ea0",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "indie pop", "pop rap", "indie poptimism"],
+    "popularity": 77,
+    "sortedGenres": ["pop", "electropop", "indie pop", "pop rap", "indie poptimism"],
+    "topTrackNames": ["Older", "Dancing With Your Ghost", "Only"]
+  },
+  "id": "fZkxSmTwwevopKFwTJQKr1"
+}, {
+  "artistName": "Beabadoobee",
+  "night": "Saturday",
+  "billing": 47,
+  "spotifyID": "35l9BRT7MXmM8bv2WDQiyB",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/872a8b84d63c38a622222fb675ac1942f3775d2f",
+    "imageShape": "small-square",
+    "genres": ["indie pop", "bedroom pop"],
+    "popularity": 66,
+    "sortedGenres": ["indie pop", "bedroom pop"],
+    "topTrackNames": ["Coffee", "The Moon Song", "If You Want To"]
+  },
+  "id": "tFihzPP1SaLgTBz7JJ7yzq"
+}, {
+  "artistName": "Ezra Collective",
+  "night": "Saturday",
+  "billing": 48,
+  "spotifyID": "5BRAUN0yN8557PLRZIr02W",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/14c47bb763811a1e930995aabb8f5e0a9a97b981",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "indie jazz", "british jazz", "uk contemporary jazz"],
+    "popularity": 53,
+    "sortedGenres": ["indie soul", "indie jazz", "british jazz", "uk contemporary jazz"],
+    "topTrackNames": ["What Am I to Do?", "Reason in Disguise", "Chapter 7 (feat. Ty)"]
+  },
+  "id": "8ST3DQGyHXYuCK6JUUpuAw"
+}, {
+  "artistName": "Inner Wave",
+  "night": "Saturday",
+  "billing": 49,
+  "spotifyID": "6AQEfqGPSxZX0nJVonYxi6",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/f601ae91c876d7014df9a9862359808336cc9bc3",
+    "imageShape": "small-square",
+    "genres": ["indie pop", "indie garage rock", "neo-psychedelic"],
+    "popularity": 60,
+    "sortedGenres": ["indie pop", "indie garage rock", "neo-psychedelic"],
+    "topTrackNames": ["American Spirits", "Eclipse", "Rose"]
+  },
+  "id": "vqiVFE8q2M3aJXSiDJqEZ3"
+}, {
+  "artistName": "Emo Nite",
+  "night": "Saturday",
+  "billing": 50,
+  "spotifyID": null,
+  "spotifyInfo": {},
+  "id": "tscxNWQCCrfnaK7rLyvwHD"
+}, {
+  "artistName": "Girl in Red",
+  "night": "Saturday",
+  "billing": 51,
+  "spotifyID": "3uwAm6vQy7kWPS2bciKWx9",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/d37a1c1c59fb1476f8ed9488f33d104bbf4c0bab",
+    "imageShape": "small-square",
+    "genres": ["pop", "indie pop", "bedroom pop", "norwegian indie"],
+    "popularity": 75,
+    "sortedGenres": ["pop", "indie pop", "bedroom pop", "norwegian indie"],
+    "topTrackNames": ["we fell in love in october", "i wanna be your girlfriend", "summer depression"]
+  },
+  "id": "sQmX6UAq7HD1xX428Ttek9"
+}, {
+  "artistName": "Aya Nakamura",
+  "night": "Saturday",
+  "billing": 52,
+  "spotifyID": "7IlRNXHjoOCgEAWN5qYksg",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/fa36ef094dbbf9b1c022841ac43a8463e1c4165e",
+    "imageShape": "small-square",
+    "genres": ["basshall"],
+    "popularity": 81,
+    "sortedGenres": ["basshall"],
+    "topTrackNames": ["Djadja", "40%", "Pookie (feat. Capo Plaza) - Remix"]
+  },
+  "id": "sCorxhvmdV3UrZ1cUW8Ppv"
+}, {
+  "artistName": "Beach Goons",
+  "night": "Saturday",
+  "billing": 54,
+  "spotifyID": "7Aw7RMHmISxyQBftcksDZ3",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/0879a3e01963dee8f9dacc97ceb8784b9faeaf40",
+    "imageShape": "small-square",
+    "genres": ["indie garage rock", "san diego indie"],
+    "popularity": 53,
+    "sortedGenres": ["indie garage rock", "san diego indie"],
+    "topTrackNames": ["Without U", "Reservoir Dawgs", "Hunny Bunnies"]
+  },
+  "id": "2u6YQLYdsvwWZjFTGeV9Jt"
+}, {
+  "artistName": "Fontaines DC",
+  "night": "Saturday",
+  "billing": 55,
+  "spotifyID": "3SXwqSqAoBz9WCI9PDQzY6",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/84662429ab2f05233083215c75b66655afa3fe52",
+    "imageShape": "small-square",
+    "genres": ["chamber psych", "indie rock", "english indie rock", "irish indie rock"],
+    "popularity": 59,
+    "sortedGenres": ["chamber psych", "indie rock", "english indie rock", "irish indie rock"],
+    "topTrackNames": ["Boys in the Better Land", "Too Real", "Big"]
+  },
+  "id": "pyYLUQRkibaJcyVYzCmFAy"
+}, {
+  "artistName": "The Murder Capital",
+  "night": "Saturday",
+  "billing": 56,
+  "spotifyID": "18M7pJRsgFVjEBZ5ufmJAp",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/91a5115051a04b89e811818988ad66e512e50856",
+    "imageShape": "small-square",
+    "genres": ["chamber psych", "english indie rock"],
+    "popularity": 46,
+    "sortedGenres": ["chamber psych", "english indie rock"],
+    "topTrackNames": ["Don't Cling To Life", "More Is Less", "Feeling Fades"]
+  },
+  "id": "n8RUbZMsCY3NfpH44C15b6"
+}, {
+  "artistName": "Paco Osuna",
+  "night": "Saturday",
+  "billing": 57,
+  "spotifyID": "6vdIozDDsH4uJEAHN8tyS3",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/cf2f1cd6c0bf8863e4665646822b30f64718aa92",
+    "imageShape": "small-square",
+    "genres": ["minimal techno", "spanish techno"],
+    "popularity": 38,
+    "sortedGenres": ["minimal techno", "spanish techno"],
+    "topTrackNames": ["Wavy Distance - Paco Osuna Remix", "Atopisimo - Original Mix", "WaAaAa - Original Mix"]
+  },
+  "id": "bA5w5Aw5xXkFP7ktksF8bw"
+}, {
+  "artistName": "Mannequin Pussy",
+  "night": "Saturday",
+  "billing": 58,
+  "spotifyID": "33yje3hgpNfdXpqdJQcrt9",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/d2e01f39470df697ce6a9641bfcddf443aea9f81",
+    "imageShape": "small-square",
+    "genres": ["art pop", "indie rock", "indie punk"],
+    "popularity": 50,
+    "sortedGenres": ["art pop", "indie rock", "indie punk"],
+    "topTrackNames": ["Drunk II", "Romantic", "Patience"]
+  },
+  "id": "qGJsAskT1M2yB2APAJiH9c"
+}, {
+  "artistName": "the Comet is Coming",
+  "night": "Saturday",
+  "billing": 59,
+  "spotifyID": "0Z5FMozvx15nUSUA6a9kkU",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/28507b8733e90734bdf64baedb71add34075b84f",
+    "imageShape": "small-square",
+    "genres": ["chamber psych", "indie jazz", "british jazz", "uk contemporary jazz"],
+    "popularity": 53,
+    "sortedGenres": ["chamber psych", "indie jazz", "british jazz", "uk contemporary jazz"],
+    "topTrackNames": ["Summon The Fire", "Blood Of The Past", "Birth Of Creation"]
+  },
+  "id": "gSFAZKyy3Y96DstJBh9G7a"
+}, {
+  "artistName": "Whipped Cream",
+  "night": "Saturday",
+  "billing": 60,
+  "spotifyID": "5CMaNobmJYgXcfiT0zYOwi",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/7c701e8257288ad0c62beed2dfa0905dd74c7663",
+    "imageShape": "small-square",
+    "genres": ["electro house", "electronic trap", "electra", "canadian electronic", "brostep"],
+    "popularity": 53,
+    "sortedGenres": ["electro house", "electronic trap", "electra", "canadian electronic", "brostep"],
+    "topTrackNames": ["Told Ya", "Ignorant", "Blood"]
+  },
+  "id": "5gk2DhbZN5Qt14fzg4V148"
+}, {
+  "artistName": "Anna Calvi",
+  "night": "Saturday",
+  "billing": 61,
+  "spotifyID": "50sSN9E5i4DJzYDclAXlSo",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a31a8108a2f9a863ea8e514d4f9fb3c8e930f452",
+    "imageShape": "small-square",
+    "genres": ["art pop", "chamber psych", "chamber pop"],
+    "popularity": 51,
+    "sortedGenres": ["art pop", "chamber psych", "chamber pop"],
+    "topTrackNames": ["Strange Weather", "You’re Not God (From ‘Peaky Blinders’ Original Soundtrack)", "Wish"]
+  },
+  "id": "buZgtKvWPV2GjG9LGVZDgJ"
+}, {
+  "artistName": "GG Magree",
+  "night": "Saturday",
+  "billing": 62,
+  "spotifyID": "54pgkpWVgQYbQXD8bkUP8n",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a967754b620e0b809f15485f8bfce077b9a1b828",
+    "imageShape": "small-square",
+    "genres": [],
+    "popularity": 51,
+    "sortedGenres": [],
+    "topTrackNames": ["Ghost", "I Wanna Lose You", "One By One"]
+  },
+  "id": "aWeKeVjFyjU819DHsLzWJQ"
+}, {
+  "artistName": "Ellen Allien",
+  "night": "Saturday",
+  "billing": 63,
+  "spotifyID": "5lsC3H1vh9YSRQckyGv0Up",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/659e4b7896ede2ff250b7cd2f9eeb1df2b8b7f48",
+    "imageShape": "small-square",
+    "genres": ["electronica", "minimal techno", "electra", "microhouse", "tech house", "german techno"],
+    "popularity": 48,
+    "sortedGenres": ["electronica", "minimal techno", "electra", "microhouse", "tech house", "german techno"],
+    "topTrackNames": ["Junge Sein", "Leave Me Alone", "Bowie in Harmony"]
+  },
+  "id": "5tvpTJiPRNzLKSRY2erDme"
+}, {
+  "artistName": "ONYVAA",
+  "night": "Saturday",
+  "billing": 64,
+  "spotifyID": "6llL2cv7SDY7OnpzCQu8Pf",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/1e847bed82a54a211054744d54d4a3c9ce94dd98",
+    "imageShape": "small-square",
+    "genres": ["detroit techno"],
+    "popularity": 22,
+    "sortedGenres": ["detroit techno"],
+    "topTrackNames": ["Feu - Original Mix", "008 A1", "MISBHV"]
+  },
+  "id": "iF4GHdZL7UsqZAgaj8TepZ"
+}, {
+  "artistName": "DJ Lord",
+  "night": "Saturday",
+  "billing": 65,
+  "spotifyID": "7373Jduz47jMwApJDrM6WQ",
+  "spotifyInfo": {
+    "imageUrl": null,
+    "imageShape": null,
+    "genres": [],
+    "popularity": 25,
+    "sortedGenres": [],
+    "topTrackNames": []
+  },
+  "id": "vAhtyjmPSE8SXk9EDCzaGn"
+}, {
+  "artistName": "Sara Landry",
+  "night": "Saturday",
+  "billing": 66,
+  "spotifyID": "7eILArMiTFTQf8SEh5fFHK",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/84ec041a801b3863098d66dad3084d0718e22d2f",
+    "imageShape": "small-square",
+    "genres": [],
+    "popularity": 39,
+    "sortedGenres": [],
+    "topTrackNames": ["Wait", "Chasm", "Tell Me"]
+  },
+  "id": "8FuGcE6PPujFBguHRtKE4n"
+}, {
+  "artistName": "Frank Ocean",
+  "night": "Sunday",
+  "billing": 1,
+  "spotifyID": "2h93pZq0e7k5yf4dywlkpM",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/e42028e7fe5a7ba790b5b4e7b096b06bf3319443",
+    "imageShape": "small-square",
+    "genres": ["pop", "alternative r&b", "hip hop", "lgbtq+ hip hop", "neo soul"],
+    "popularity": 88,
+    "sortedGenres": ["pop", "alternative r&b", "hip hop", "lgbtq+ hip hop", "neo soul"],
+    "topTrackNames": ["Chanel", "In My Room", "Nights"]
+  },
+  "id": "izu9wCx3X4BW1LKpDnYKrP"
+}, {
+  "artistName": "Lana Del Rey",
+  "night": "Sunday",
+  "billing": 2,
+  "spotifyID": "00FQb4jTyendYWaN8pK0wa",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/0c50e5ae217b7a86f9f5114dc5e0f1beb8e9185d",
+    "imageShape": "small-square",
+    "genres": ["pop", "art pop"],
+    "popularity": 89,
+    "sortedGenres": ["pop", "art pop"],
+    "topTrackNames": ["Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey)", "Doin' Time", "Norman fucking Rockwell"]
+  },
+  "id": "rxSjMYe5euyVznFb4Xs79s"
+}, {
+  "artistName": "Lil Uzi Vert",
+  "night": "Sunday",
+  "billing": 3,
+  "spotifyID": "4O15NlyKLIASxsJ0PrXPfz",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5ddd6e2d4758ec7390879c50613f0d16a840fc34",
+    "imageShape": "small-square",
+    "genres": ["rap", "pop rap", "trap", "melodic rap", "philly rap"],
+    "popularity": 91,
+    "sortedGenres": ["rap", "pop rap", "trap", "melodic rap", "philly rap"],
+    "topTrackNames": ["Futsal Shuffle 2020", "XO Tour Llif3", "Sanguine Paradise"]
+  },
+  "id": "fSU51yaZ2vxxWBS6Rir642"
+}, {
+  "artistName": "Daniel Caesar",
+  "night": "Sunday",
+  "billing": 4,
+  "spotifyID": "20wkVLutqVOYrc0kxFs7rA",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/dad2ec3fc54f36f983f131660a3a01aa6e5559a8",
+    "imageShape": "small-square",
+    "genres": ["pop", "canadian contemporary r&b"],
+    "popularity": 82,
+    "sortedGenres": ["pop", "canadian contemporary r&b"],
+    "topTrackNames": ["Best Part (feat. H.E.R.)", "Get You (feat. Kali Uchis)", "Japanese Denim"]
+  },
+  "id": "qrLhKfa2jmd8puyyJda8Lh"
+}, {
+  "artistName": "FKA twigs",
+  "night": "Sunday",
+  "billing": 5,
+  "spotifyID": "6nB0iY1cjSY1KyhYyuIIKH",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/4bf2119c78c240c16da6b9ced75c6ca7e095db5c",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "art pop", "alternative r&b", "dance pop", "escape room", "indie r&b", "trip hop"],
+    "popularity": 72,
+    "sortedGenres": ["pop", "electropop", "art pop", "alternative r&b", "dance pop", "escape room", "indie r&b", "trip hop"],
+    "topTrackNames": ["home with you", "holy terrain", "cellophane"]
+  },
+  "id": "4UknyEdkZKFx7SssZVxqy3"
+}, {
+  "artistName": "Marina",
+  "night": "Sunday",
+  "billing": 6,
+  "spotifyID": "6CwfuxIqcltXDGjfZsMd9A",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/6935486a0ba7c8c549f4893765549f688544b2ca",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "indie pop", "dance pop", "indie poptimism", "post-teen pop", "metropopolis", "uk alternative pop"],
+    "popularity": 75,
+    "sortedGenres": ["pop", "electropop", "indie pop", "dance pop", "indie poptimism", "post-teen pop", "metropopolis", "uk alternative pop"],
+    "topTrackNames": ["Baby (feat. MARINA & Luis Fonsi)", "How to Be a Heartbreaker", "Primadonna"]
+  },
+  "id": "np7L9VNr3x5fcPZPmkLG1S"
+}, {
+  "artistName": "Louis the Child",
+  "night": "Sunday",
+  "billing": 7,
+  "spotifyID": "7wg1qvie3KqDNQbAkTdbX0",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/482fcbb787fc719ab093a4c909bb474c81cc0e4f",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "edm", "tropical house", "indie poptimism"],
+    "popularity": 74,
+    "sortedGenres": ["pop", "electropop", "edm", "tropical house", "indie poptimism"],
+    "topTrackNames": ["Better Not (with Wafia)", "Free (with Drew Love)", "Slow Down Love"]
+  },
+  "id": "e3xYuvAT6fkEc2HJBb3KDe"
+}, {
+  "artistName": "Ari Lennox",
+  "night": "Sunday",
+  "billing": 8,
+  "spotifyID": "1vaQ6v3pOFxAIrFoPrAcom",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/418a0879a7dd89bcc2e8bd64a4b6774a716eada3",
+    "imageShape": "small-square",
+    "genres": ["pop", "alternative r&b", "dmv rap", "r&b"],
+    "popularity": 73,
+    "sortedGenres": ["pop", "alternative r&b", "dmv rap", "r&b"],
+    "topTrackNames": ["Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)", "Shea Butter Baby (with J. Cole)", "BMO"]
+  },
+  "id": "7t4gbL2VshYRNEeyjtzEks"
+}, {
+  "artistName": "Fatboy Slim",
+  "night": "Sunday",
+  "billing": 9,
+  "spotifyID": "4Y7tXHSEejGu1vQ9bwDdXW",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/3331c5ed04432bfb5cb92a77d97f59ac1fa15dfd",
+    "imageShape": "small-square",
+    "genres": ["disco house", "big beat"],
+    "popularity": 68,
+    "sortedGenres": ["disco house", "big beat"],
+    "topTrackNames": ["Praise You - Radio Edit", "Right Here, Right Now - CamelPhat Radio Edit", "Praise You - Purple Disco Machine Remix"]
+  },
+  "id": "tYL3NW2yXu4eoEmJmYuFP8"
+}, {
+  "artistName": "Banda MS",
+  "night": "Sunday",
+  "billing": 10,
+  "spotifyID": "2C6i0I5RiGzDKN9IAF8reh",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/89bc5375e0fbf67da256c058002fa597a1390244",
+    "imageShape": "small-square",
+    "genres": ["banda", "norteno", "regional mexican"],
+    "popularity": 84,
+    "sortedGenres": ["banda", "norteno", "regional mexican"],
+    "topTrackNames": ["El Color de Tus Ojos", "Por Mi No Te Detengas", "Me Vas a Extrañar"]
+  },
+  "id": "pgo6b5JPV38SfpJZf4W93D"
+}, {
+  "artistName": "Lil Nas X",
+  "night": "Sunday",
+  "billing": 11,
+  "spotifyID": "7jVv8c5Fj3E9VhNjxT4snq",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/2167ae6119a3e8d9f619f00cf1591d784d5c3f66",
+    "imageShape": "small-square",
+    "genres": ["pop rap", "lgbtq+ hip hop", "country rap"],
+    "popularity": 87,
+    "sortedGenres": ["pop rap", "lgbtq+ hip hop", "country rap"],
+    "topTrackNames": ["Old Town Road - Remix", "Old Town Road", "Panini"]
+  },
+  "id": "eHJCXi4qpwn85vff1WcHpe"
+}, {
+  "artistName": "Mura Masa",
+  "night": "Sunday",
+  "billing": 12,
+  "spotifyID": "5Q81rlcTFh3k6DQJXPdsot",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/fb5c7abc2d25ae998c4ccf2aed3d71fd9cc342fb",
+    "imageShape": "small-square",
+    "genres": ["vapor soul", "channel islands indie"],
+    "popularity": 72,
+    "sortedGenres": ["vapor soul", "channel islands indie"],
+    "topTrackNames": ["Love$ick (feat. A$AP Rocky)", "Deal Wiv It", "Doorman"]
+  },
+  "id": "reQAJ6zZr5y5DVf2soKmQm"
+}, {
+  "artistName": "Duck Sauce",
+  "night": "Sunday",
+  "billing": 13,
+  "spotifyID": "0q8J3Yj810t5cpAYEJ7gxt",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ee65e36f017afd6a2a218ed6fc92354a958e740a",
+    "imageShape": "other",
+    "genres": ["disco house"],
+    "popularity": 58,
+    "sortedGenres": ["disco house"],
+    "topTrackNames": ["Barbra Streisand", "aNYway", "Barbra Streisand"]
+  },
+  "id": "sykt3w3zcYKoaChiW2h1HS"
+}, {
+  "artistName": "Jessie Reyez",
+  "night": "Sunday",
+  "billing": 14,
+  "spotifyID": "3KedxarmBCyFBevnqQHy3P",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/a771c3509452a67da6d36da075fdef427061dddc",
+    "imageShape": "small-square",
+    "genres": ["pop", "canadian contemporary r&b", "canadian pop"],
+    "popularity": 81,
+    "sortedGenres": ["pop", "canadian contemporary r&b", "canadian pop"],
+    "topTrackNames": ["Promises (with Sam Smith)", "Imported (with 6LACK)", "FIGURES"]
+  },
+  "id": "nPXN1f7syzXh6KW92qQ85v"
+}, {
+  "artistName": "Slander",
+  "night": "Sunday",
+  "billing": 15,
+  "spotifyID": "20DZAfCuP1TKZl5KcY7z3Q",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/c6083e2bf8813a62cea2389c4390dc262cbe81df",
+    "imageShape": "small-square",
+    "genres": ["edm", "electro house", "electronic trap", "pop edm", "brostep"],
+    "popularity": 73,
+    "sortedGenres": ["edm", "electro house", "electronic trap", "pop edm", "brostep"],
+    "topTrackNames": ["All You Need To Know (feat. Calle Lehmann)", "First Time (feat. Dylan Matthew)", "GUD VIBRATIONS"]
+  },
+  "id": "prdtHqAxgVw4WkRRJjiXRa"
+}, {
+  "artistName": "Denzel Curry",
+  "night": "Sunday",
+  "billing": 16,
+  "spotifyID": "6fxyWrfmjcbj5d12gXeiNV",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5469f1627f49abbfafcbc21c034be30baba7bb50",
+    "imageShape": "small-square",
+    "genres": ["rap", "hip hop", "trap", "underground hip hop", "dark trap", "drill", "miami hip hop"],
+    "popularity": 80,
+    "sortedGenres": ["rap", "hip hop", "trap", "underground hip hop", "dark trap", "drill", "miami hip hop"],
+    "topTrackNames": ["Tokyo Drifting (with Denzel Curry)", "CLOUT COBAIN | CLOUT CO13A1N", "RICKY"]
+  },
+  "id": "s2hgTTh31uAYk9g5oPJVRD"
+}, {
+  "artistName": "J.I.D",
+  "night": "Sunday",
+  "billing": 17,
+  "spotifyID": "6U3ybJ9UHNKEdsH7ktGBZ7",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/850355b6dd218765cff30856442660d15d04c22e",
+    "imageShape": "small-square",
+    "genres": ["rap", "hip hop", "underground hip hop"],
+    "popularity": 78,
+    "sortedGenres": ["rap", "hip hop", "underground hip hop"],
+    "topTrackNames": ["Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)", "151 Rum", "Off Deez (with J. Cole)"]
+  },
+  "id": "6GpDtoCnTBErCFWzB2ZN1h"
+}, {
+  "artistName": "Ленинград (Leningrad)",
+  "night": "Sunday",
+  "billing": 18,
+  "spotifyID": "2a3EJeQjcAelthFGr5bzQC",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/94c028b11cfbd380e6453e0fe3f8eb34eb178913",
+    "imageShape": "small-square",
+    "genres": ["russian pop", "russian punk", "russian rock"],
+    "popularity": 54,
+    "sortedGenres": ["russian pop", "russian punk", "russian rock"],
+    "topTrackNames": ["Кабриолет", "Вояж", "Экспонат"]
+  },
+  "id": "rNdT97w6V2xp8xcMSDqyqn"
+}, {
+  "artistName": "Epik High",
+  "night": "Sunday",
+  "billing": 19,
+  "spotifyID": "5snNHNlYT2UrtZo5HCJkiw",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/8e3fe6285d6edaecccf4156e5a737a101ca4df4b",
+    "imageShape": "small-square",
+    "genres": ["k-pop", "k-hop", "k-indie", "korean pop"],
+    "popularity": 62,
+    "sortedGenres": ["k-pop", "k-hop", "k-indie", "korean pop"],
+    "topTrackNames": ["Can You Hear My Heart (feat. LEE HI)", "Lovedrunk", "Eternal Sunshine"]
+  },
+  "id": "nijqZQ5xr2eQcTgdsTT7XV"
+}, {
+  "artistName": "Duke Dumont",
+  "night": "Sunday",
+  "billing": 20,
+  "spotifyID": "61lyPtntblHJvA7FMMhi7E",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/fa37565bcf80bcfa54bfae012bdcf2781c9b7ff0",
+    "imageShape": "small-square",
+    "genres": ["edm", "dance pop", "tropical house", "house", "progressive house", "deep groove house", "disco house", "uk dance", "destroy techno"],
+    "popularity": 73,
+    "sortedGenres": ["edm", "dance pop", "tropical house", "house", "progressive house", "deep groove house", "disco house", "uk dance", "destroy techno"],
+    "topTrackNames": ["Ocean Drive", "Red Light Green Light", "The Power"]
+  },
+  "id": "voMRNtJzZX7sPyveacPRbp"
+}, {
+  "artistName": "Lauren Daigle",
+  "night": "Sunday",
+  "billing": 21,
+  "spotifyID": "40LHVA5BTQp9RxHOQ9JPYj",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/b8afea1f8426cdb764c7d3430add63a59209e58b",
+    "imageShape": "small-square",
+    "genres": ["ccm", "christian music", "worship"],
+    "popularity": 78,
+    "sortedGenres": ["ccm", "christian music", "worship"],
+    "topTrackNames": ["You Say", "Rescue", "Look Up Child"]
+  },
+  "id": "cgunCsB6WbPKPnJN9KDo2e"
+}, {
+  "artistName": "Conan Gray",
+  "night": "Sunday",
+  "billing": 22,
+  "spotifyID": "4Uc8Dsxct0oMqx0P6i60ea",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/af0a69b866257d66f1ca18c528f74abac64db097",
+    "imageShape": "small-square",
+    "genres": ["pop", "indie pop", "bedroom pop", "modern rock"],
+    "popularity": 79,
+    "sortedGenres": ["pop", "indie pop", "bedroom pop", "modern rock"],
+    "topTrackNames": ["Maniac", "Crush Culture", "Generation Why"]
+  },
+  "id": "3yYGfpgHPutBmf47fQ7RrN"
+}, {
+  "artistName": "Bedouin",
+  "night": "Sunday",
+  "billing": 23,
+  "spotifyID": "5bKdC6382t97Qnpvs81Rqx",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/bf0c1dd7c96112df05ec47d2e686473afdbdb845",
+    "imageShape": "small-square",
+    "genres": ["deep melodic euro house", "ethnotronica", "arab electronic", "organic electronic"],
+    "popularity": 49,
+    "sortedGenres": ["deep melodic euro house", "ethnotronica", "arab electronic", "organic electronic"],
+    "topTrackNames": ["Straight To The Heart", "Flight of Birds", "Hologram"]
+  },
+  "id": "uMfWgdt35uor1YMuQKvPeN"
+}, {
+  "artistName": "Big Wild",
+  "night": "Sunday",
+  "billing": 23,
+  "spotifyID": "0PxzGnCYBpSuaI49OR94cA",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/32266f34b0feec81d7ef7551f83e60f8ee85ac18",
+    "imageShape": "small-square",
+    "genres": ["electropop", "edm", "tropical house", "indietronica", "indie poptimism", "vapor soul", "vapor twitch"],
+    "popularity": 67,
+    "sortedGenres": ["electropop", "edm", "tropical house", "indietronica", "indie poptimism", "vapor soul", "vapor twitch"],
+    "topTrackNames": ["6's to 9's (feat. Rationale)", "When I Get There", "Show Me"]
+  },
+  "id": "5GxVeXUwkUid7LXqoA449S"
+}, {
+  "artistName": "Alex Benjamin",
+  "night": "Sunday",
+  "billing": 24,
+  "spotifyID": "1fHy80GWe3LOE5rPahyAB9",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e11f2127b494fc555369623",
+    "imageShape": "other",
+    "genres": [],
+    "popularity": 39,
+    "sortedGenres": [],
+    "topTrackNames": ["Let Me Down Slowly (Ibara Remix)", "The Fool", "Observador"]
+  },
+  "id": "a3KZAKFGK8nnsBws2EkTUL"
+}, {
+  "artistName": "Bishop Briggs",
+  "night": "Sunday",
+  "billing": 24,
+  "spotifyID": "0yb46jwm7gqbZXVXZQ8Z1e",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/b5b089dcc72d01480cc95c1c56192e2f50da0a34",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "modern rock", "modern alternative rock"],
+    "popularity": 74,
+    "sortedGenres": ["pop", "electropop", "modern rock", "modern alternative rock"],
+    "topTrackNames": ["River", "White Flag", "Never Tear Us Apart"]
+  },
+  "id": "uLisyYjtCtyUtzibLuJfiu"
+}, {
+  "artistName": "(Sandy) Alex G",
+  "night": "Sunday",
+  "billing": 25,
+  "spotifyID": "6lcwlkAjBPSKnFBZjjZFJs",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5409a7d83c3386ec0b6372ad1d776dd6fba0784b",
+    "imageShape": "small-square",
+    "genres": ["art pop", "indie pop", "indie rock", "chamber pop", "indie garage rock", "alternative rock", "experimental pop", "freak folk", "noise pop", "garage psych", "indie folk", "lo-fi", "philly indie"],
+    "popularity": 62,
+    "sortedGenres": ["art pop", "indie pop", "indie rock", "chamber pop", "indie garage rock", "alternative rock", "experimental pop", "freak folk", "noise pop", "garage psych", "indie folk", "lo-fi", "philly indie"],
+    "topTrackNames": ["Gretel", "Hope", "Southern Sky"]
+  },
+  "id": "aavoJDok7BRQrGyU6y6Npj"
+}, {
+  "artistName": "Noname",
+  "night": "Sunday",
+  "billing": 25,
+  "spotifyID": "1EpyA68dKpjf7jXmQL88Hy",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/7ef329825d061fbbda435aa9fe3952128b1fd9e0",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "rap", "alternative r&b", "hip hop", "escape room", "chicago rap"],
+    "popularity": 66,
+    "sortedGenres": ["indie soul", "rap", "alternative r&b", "hip hop", "escape room", "chicago rap"],
+    "topTrackNames": ["Diddy Bop (feat. Cam O'bi & Raury)", "Shadow Man (feat. Phoelix, Smino & Saba)", "Song 32"]
+  },
+  "id": "wCGf9QBcC52PtijZaFso54"
+}, {
+  "artistName": "YUNGBLUD",
+  "night": "Sunday",
+  "billing": 26,
+  "spotifyID": "6Ad91Jof8Niiw0lGLLi3NW",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/bcd1f1b2f1fee15fbe8bfb1e4ae3ebd59ed40e70",
+    "imageShape": "small-square",
+    "genres": ["modern rock", "rock", "british indie rock"],
+    "popularity": 81,
+    "sortedGenres": ["modern rock", "rock", "british indie rock"],
+    "topTrackNames": ["I Think I'm OKAY (with YUNGBLUD & Travis Barker)", "Tongue Tied (with YUNGBLUD & blackbear)", "parents"]
+  },
+  "id": "neUEvFZq7m8c1h6m17R2yb"
+}, {
+  "artistName": "Dave",
+  "night": "Sunday",
+  "billing": 27,
+  "spotifyID": "7e10JUMF7MJmmwYpnTSMI5",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/3ccf1cd6da7698678353e56420edc02f4b7b1928",
+    "imageShape": "small-square",
+    "genres": ["rap", "pop rap", "hip hop", "trap", "southern hip hop", "gangster rap", "harlem hip hop", "nyc rap"],
+    "popularity": 71,
+    "sortedGenres": ["rap", "pop rap", "hip hop", "trap", "southern hip hop", "gangster rap", "harlem hip hop", "nyc rap"],
+    "topTrackNames": ["Alone", "Night Shift", "Everyday"]
+  },
+  "id": "3ZHie7HjMCszkXEzrtumnC"
+}, {
+  "artistName": "SebastiAn",
+  "night": "Sunday",
+  "billing": 28,
+  "spotifyID": "07YUOmWljBTXwIseAUd9TW",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/4d25c840cea4bec300917fde779c7ce6ed424d62",
+    "imageShape": "small-square",
+    "genres": ["colombian pop", "latin", "reggaeton"],
+    "popularity": 89,
+    "sortedGenres": ["colombian pop", "latin", "reggaeton"],
+    "topTrackNames": ["Oye", "Runaway", "Bonita"]
+  },
+  "id": "mwozYxPAVZCjWeDvQov1g"
+}, {
+  "artistName": "Kyary Pamyu Pamyu",
+  "night": "Sunday",
+  "billing": 29,
+  "spotifyID": "7Gh6fW49xfXLP8DTWaLVJP",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/71e0e76102d06500880cda4fd3724ac89efb4033",
+    "imageShape": "small-square",
+    "genres": ["j-idol"],
+    "popularity": 56,
+    "sortedGenres": ["j-idol"],
+    "topTrackNames": ["PONPONPON", "にんじゃりばんばん", "CANDY CANDY"]
+  },
+  "id": "3gLoCzxoNSigF2mpk5A5cY"
+}, {
+  "artistName": "Emotional Oranges",
+  "night": "Sunday",
+  "billing": 30,
+  "spotifyID": "12trz2INGglrKMzLmg0y2C",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/40e9098ec4fb155c1ca65d1de65aabf5a7bb63a8",
+    "imageShape": "small-square",
+    "genres": ["alternative r&b", "indie r&b"],
+    "popularity": 63,
+    "sortedGenres": ["alternative r&b", "indie r&b"],
+    "topTrackNames": ["Just Like You", "West Coast Love", "Personal"]
+  },
+  "id": "pNaXUhucyh5L8XtWQ27W5n"
+}, {
+  "artistName": "Channel Tres",
+  "night": "Sunday",
+  "billing": 31,
+  "spotifyID": "4cUkGQyhLFqKHBtL58HYVp",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/8b1b9d8d45854574033151e49ec7e0b7afae25c8",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "la pop"],
+    "popularity": 60,
+    "sortedGenres": ["indie soul", "la pop"],
+    "topTrackNames": ["Topdown", "EARFQUAKE - Channel Tres Remix", "Controller"]
+  },
+  "id": "8pjv3VmsiP3wuC6oS2FpzX"
+}, {
+  "artistName": "Crumb",
+  "night": "Sunday",
+  "billing": 32,
+  "spotifyID": "4kSGbjWGxTchKpIxXPJv0B",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/ce91d71ba7022e0330a2b1ae7d4eeb5b5ec0ad9b",
+    "imageShape": "small-square",
+    "genres": ["indie garage rock", "neo-psychedelic"],
+    "popularity": 65,
+    "sortedGenres": ["indie garage rock", "neo-psychedelic"],
+    "topTrackNames": ["Locket", "Plants", "Ghostride"]
+  },
+  "id": "hZg33GxZgZrZrtZuqaP59d"
+}, {
+  "artistName": "Doja Cat",
+  "night": "Sunday",
+  "billing": 33,
+  "spotifyID": "5cj0lLjcoR7YOSnhnX0Po5",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/d78f2cc538fc953045758c01c62f1524e2bb31e3",
+    "imageShape": "small-square",
+    "genres": ["pop", "pop rap", "la indie"],
+    "popularity": 85,
+    "sortedGenres": ["pop", "pop rap", "la indie"],
+    "topTrackNames": ["Say So", "Candy", "Juicy (feat. Tyga)"]
+  },
+  "id": "jo9eaEirZbjyfPHVoQT7ka"
+}, {
+  "artistName": "Ed Maverick",
+  "night": "Sunday",
+  "billing": 34,
+  "spotifyID": "3JSSjGYcIkgsrz7892CelT",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/8fbea84b083a8224547385f423ccef5dd910fc21",
+    "imageShape": "small-square",
+    "genres": ["chihuahua indie", "mexican indie"],
+    "popularity": 75,
+    "sortedGenres": ["chihuahua indie", "mexican indie"],
+    "topTrackNames": ["Fuentes de Ortiz", "Acurrucar", "Ropa De Bazar"]
+  },
+  "id": "mXYXDhzYuha8vbCzcgagFb"
+}, {
+  "artistName": "Ali Gatie",
+  "night": "Sunday",
+  "billing": 35,
+  "spotifyID": "4rTv3Ejc7hKMtmoBOK1B4T",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5c12682f6cfdf8933e9caa12d592e284b9f4e3c8",
+    "imageShape": "small-square",
+    "genres": ["pop", "canadian hip hop"],
+    "popularity": 82,
+    "sortedGenres": ["pop", "canadian hip hop"],
+    "topTrackNames": ["It's You", "Can't Lie", "Moonlight"]
+  },
+  "id": "gfnRaDrR6kae95vjSXudew"
+}, {
+  "artistName": "Hayden James",
+  "night": "Sunday",
+  "billing": 36,
+  "spotifyID": "4csQIMQm6vI2A2SCVDuM2z",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/9bed6d025659b794a07f360d420b3574027c5d67",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "edm", "tropical house", "house", "indietronica", "gauze pop", "aussietronica", "australian pop"],
+    "popularity": 69,
+    "sortedGenres": ["indie soul", "edm", "tropical house", "house", "indietronica", "gauze pop", "aussietronica", "australian pop"],
+    "topTrackNames": ["Something About You - ODESZA Remix", "Just Friends", "Favours"]
+  },
+  "id": "c3Rpt1U27e8jF9XoTtdCEF"
+}, {
+  "artistName": "Skegss",
+  "night": "Sunday",
+  "billing": 37,
+  "spotifyID": "3SGLeWc7J5Ve0CinAOrb3a",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/9a3ea4ab197b1f9571a78eda40534164b423c859",
+    "imageShape": "small-square",
+    "genres": ["australian garage punk", "indie surf"],
+    "popularity": 62,
+    "sortedGenres": ["australian garage punk", "indie surf"],
+    "topTrackNames": ["L.S.D", "Up In The Clouds", "Spring Has Sprung"]
+  },
+  "id": "7L7odNVQNAWnpmSf4UtyLi"
+}, {
+  "artistName": "Monolink",
+  "night": "Sunday",
+  "billing": 38,
+  "spotifyID": "2I4hRNCYkPKJQlkoEZKjYx",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/c2bb34c606258932f3562b62c0348948bd551f23",
+    "imageShape": "small-square",
+    "genres": ["tech house", "deep melodic euro house", "ethnotronica"],
+    "popularity": 64,
+    "sortedGenres": ["tech house", "deep melodic euro house", "ethnotronica"],
+    "topTrackNames": ["Return to Oz - ARTBAT Remix", "The End", "Sirens"]
+  },
+  "id": "bHsFCcRLhwr2vKoviFpape"
+}, {
+  "artistName": "Dom Dolla",
+  "night": "Sunday",
+  "billing": 39,
+  "spotifyID": "205i7E8fNVfojowcQSfK9m",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/882c424dcbab69d1d82818c5280d9b952955c3c1",
+    "imageShape": "small-square",
+    "genres": ["edm", "house", "bass house", "deep groove house", "australian house"],
+    "popularity": 67,
+    "sortedGenres": ["edm", "house", "bass house", "deep groove house", "australian house"],
+    "topTrackNames": ["Take It", "San Frandisco", "Don't Start Now - Dom Dolla Remix"]
+  },
+  "id": "izWXCnuSaHWM5SeKYy4YKq"
+}, {
+  "artistName": "Satori",
+  "night": "Sunday",
+  "billing": 40,
+  "spotifyID": "3NWsGVeKvnDhsP6KfHgC2x",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/411a630f60fee30f47f31ac6423a7b90c910c0c5",
+    "imageShape": "small-square",
+    "genres": [],
+    "popularity": 46,
+    "sortedGenres": [],
+    "topTrackNames": ["Nerde Nerde", "Bas Gaza"]
+  },
+  "id": "c1UZoNsF5rCCVjfLRsegb4"
+}, {
+  "artistName": "Black Pumas",
+  "night": "Sunday",
+  "billing": 41,
+  "spotifyID": "6eU0jV2eEZ8XTM7EmlguK6",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/93a538a434f0c6e9d624f3f5480d3f8bbcdd07cb",
+    "imageShape": "small-square",
+    "genres": ["funk", "retro soul"],
+    "popularity": 62,
+    "sortedGenres": ["funk", "retro soul"],
+    "topTrackNames": ["Colors", "Black Moon Rising", "Fire"]
+  },
+  "id": "uw3pdy8zNCPkDw2AJQXCwo"
+}, {
+  "artistName": "Sampa the Great",
+  "night": "Sunday",
+  "billing": 42,
+  "spotifyID": "7fw0E8WHdG3r9SuPBcGmWk",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/9836a23508ba07970ce0b280c586b2f9d0b000a3",
+    "imageShape": "small-square",
+    "genres": ["indie soul", "escape room", "conscious hip hop", "australian hip hop"],
+    "popularity": 59,
+    "sortedGenres": ["indie soul", "escape room", "conscious hip hop", "australian hip hop"],
+    "topTrackNames": ["Energy", "Final Form", "Blue Boss"]
+  },
+  "id": "bzjPb6WLCWCGFz9FHTzbS6"
+}, {
+  "artistName": "Altin Gun",
+  "night": "Sunday",
+  "billing": 43,
+  "spotifyID": "37PL04N8kBWWW69jdrMMWT",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/7d273b7842f827283a8599e433174d78a19ec26b",
+    "imageShape": "small-square",
+    "genres": ["dutch indie", "turkish psych"],
+    "popularity": 54,
+    "sortedGenres": ["dutch indie", "turkish psych"],
+    "topTrackNames": ["Goca Dünya", "Leyla", "Tatlı Dile Güler Yüze"]
+  },
+  "id": "3PBbPBsjqTq6gaAZYwPJ95"
+}, {
+  "artistName": "Luttrell",
+  "night": "Sunday",
+  "billing": 44,
+  "spotifyID": "4EOyJnoiiOJ4vuNhSBArB2",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/5c9cc9e504d580db9e24e178397735973fe15008",
+    "imageShape": "small-square",
+    "genres": ["tropical house", "progressive house"],
+    "popularity": 55,
+    "sortedGenres": ["tropical house", "progressive house"],
+    "topTrackNames": ["Lose My Mind (feat. Mr Gabriel) [Luttrell Remix]", "After All", "Windowscene - Made in Paris Remix"]
+  },
+  "id": "hgjKS47aQo65rQ4jNk8znG"
+}, {
+  "artistName": "Nathy Peluso",
+  "night": "Sunday",
+  "billing": 45,
+  "spotifyID": "3VHAySZQPlfGlNLslzXYpN",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/fc27ab14a54398a280d0f387c4b04681e898a28a",
+    "imageShape": "small-square",
+    "genres": ["r&b en espanol", "rap latina"],
+    "popularity": 58,
+    "sortedGenres": ["r&b en espanol", "rap latina"],
+    "topTrackNames": ["La Sandunguera", "Corashe", "Copa Glasé"]
+  },
+  "id": "wbGedAtj6FQi2JQxGR5aVH"
+}, {
+  "artistName": "Olivia O'Brien",
+  "night": "Sunday",
+  "billing": 46,
+  "spotifyID": "1QRj3hoop9Mv5VvHQkwPEp",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/f14e670ebd938f7a4114e2f5429b1faac3fb91e2",
+    "imageShape": "small-square",
+    "genres": ["pop", "electropop", "dance pop", "pop rap", "post-teen pop"],
+    "popularity": 79,
+    "sortedGenres": ["pop", "electropop", "dance pop", "pop rap", "post-teen pop"],
+    "topTrackNames": ["hate u love u", "Complicated", "Love Myself"]
+  },
+  "id": "4qGtUUZHZwBpgYsYv5gp5N"
+}, {
+  "artistName": "Mariah the Scientist",
+  "night": "Sunday",
+  "billing": 47,
+  "spotifyID": "7HO5fOXE4gh3lzZn64tX2E",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/93ddcc257545f1ac4a8206d380b287cbe86efa50",
+    "imageShape": "small-square",
+    "genres": ["alternative r&b"],
+    "popularity": 58,
+    "sortedGenres": ["alternative r&b"],
+    "topTrackNames": ["Beetlejuice", "Reminders", "Note to Self"]
+  },
+  "id": "4uhPceBVy2gLtwdphm95g3"
+}, {
+  "artistName": "Viagra Boys",
+  "night": "Sunday",
+  "billing": 48,
+  "spotifyID": "2nAKP6etu8wXNnezKXgqgg",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/cd3067186be68c2f0291e442570cea65458255f3",
+    "imageShape": "small-square",
+    "genres": ["stockholm indie"],
+    "popularity": 50,
+    "sortedGenres": ["stockholm indie"],
+    "topTrackNames": ["Sports", "Just Like You", "Worms"]
+  },
+  "id": "6SRp1X1BauqXfsbiE4eChi"
+}, {
+  "artistName": "Garino",
+  "night": "Sunday",
+  "billing": 49,
+  "spotifyID": "3Koxtmqg8V1mSPtJ9AeYBa",
+  "spotifyInfo": {
+    "imageUrl": null,
+    "imageShape": null,
+    "genres": [],
+    "popularity": 11,
+    "sortedGenres": [],
+    "topTrackNames": ["Stay (Don't Go Away) [feat. Raye] - Djs from Mars Remix"]
+  },
+  "id": "ptH9STov7zX1Ee6zs4qfj8"
+}, {
+  "artistName": "Adam Port",
+  "night": "Sunday",
+  "billing": 50,
+  "spotifyID": "2loEsOijJ6XiGzWYFXMIRk",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/cc2f777d132d4144f661c0ca0dbffc256180ca29",
+    "imageShape": "small-square",
+    "genres": ["deep melodic euro house", "minimal tech house", "deep disco house"],
+    "popularity": 52,
+    "sortedGenres": ["deep melodic euro house", "minimal tech house", "deep disco house"],
+    "topTrackNames": ["Muyè", "Muyè - Black Coffee Remix", "Muyè (Black Coffee Remix)"]
+  },
+  "id": "oR91APVZWWpVMKn39S7mzH"
+}, {
+  "artistName": "Guy Laliberté",
+  "night": "Sunday",
+  "billing": 51,
+  "spotifyID": null,
+  "spotifyInfo": {},
+  "id": "7Yb8jGRnFnBgn9T384kkNK"
+}, {
+  "artistName": "Detlef",
+  "night": "Sunday",
+  "billing": 52,
+  "spotifyID": "5lZ8HC92jRDlyeq0vSxGeI",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/43fae0290c5d338f8b5b7dba83be7cbecc402a21",
+    "imageShape": "small-square",
+    "genres": ["house", "deep groove house", "latvian pop"],
+    "popularity": 49,
+    "sortedGenres": ["house", "deep groove house", "latvian pop"],
+    "topTrackNames": ["Swagon", "JayDee", "Deep Dip"]
+  },
+  "id": "nyrTsEQxMNpdGH5NNnMU5H"
+}, {
+  "artistName": "Sahar Z",
+  "night": "Sunday",
+  "billing": 53,
+  "spotifyID": "47YdOgVXS5hzu5spoFFpHU",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/19aaa3bc608fadef9dc4c4e6231661080acf5a5e",
+    "imageShape": "small-square",
+    "genres": ["focus trance", "israeli techno"],
+    "popularity": 29,
+    "sortedGenres": ["focus trance", "israeli techno"],
+    "topTrackNames": ["Ollie - Extended Mix", "Ollie - Extended Mix [Mixed]", "Lalitha Ashtotram - Audio Junkies & Sahar Z Remix"]
+  },
+  "id": "cJEAJk7zNFwojxLU9R1oRh"
+}, {
+  "artistName": "88Rising",
+  "night": "Saturday",
+  "billing": -1,
+  "spotifyID": "1AhjOkOLkbHUfcHDSErXQs",
+  "spotifyInfo": {
+    "imageUrl": "https://i.scdn.co/image/42dace243b0e9396720557ed0d3f8cc91cc6a762",
+    "imageShape": "small-square",
+    "genres": ["pop", "pop rap"],
+    "popularity": 79,
+    "sortedGenres": ["pop", "pop rap"],
+    "topTrackNames": ["Midsummer Madness", "History", "Walking (feat. Swae Lee & Major Lazer)"]
+  },
+  "id": "mKw5G5v41uMr5b7Ndg5taa"
+}]
