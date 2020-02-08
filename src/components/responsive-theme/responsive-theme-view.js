@@ -79,13 +79,16 @@ function ResponsiveThemeView(props) {
     colors: {
       background: '#2A363B',
       secondary: "#FECEA8",
+      white: "#FFFFFF",
+      black: "#000000",
+      accent: '#F67280',
+      greenPrimary: "#2eab5a",
       correct: 'hsla(152, 88%, 64%, 1)',
       correctOpaque: 'hsla(152, 88%, 64%, 1)',
       correctSemiTransparent: 'hsla(151.52, 88.2%, 64.13%, .4)',
       incorrect: 'hsla(330, 80%, 54%, 1)',
       incorrectOpaque: 'hsla(330, 80%, 54%, 1)',
       incorrectSemiTransparent: 'hsl(329.85, 80.33%, 53.9%, .4)',
-      white: 'rgb(255,255,255)',
       whiteSemiTransparent: 'rgba(255,255,255, .4)'
     }
 
