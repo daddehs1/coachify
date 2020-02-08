@@ -1,4 +1,4 @@
 export {
   default
 }
-from './artist-box-container';
+from './artist-box-redux';

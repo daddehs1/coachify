@@ -1,9 +1,16 @@
 import styled from 'styled-components';
-import ru from '../../helpers/responsive-unit';
+import {ru, themeColor} from '../../helpers/styled-components';
 
 const ArtistBoxViewWrapper = styled.div `
   display: flex;
   flex-direction: row;
+  background-color: ${props => props.selected
+  ? themeColor('greenPrimary')
+  : 'transparent'};
+  margin: ${ru(.4)} ${ru(.8)};
+  padding: ${ru(.4)};
+  border-radius: 10px;
+  transition: background-color .3s ease;
 `;
 
 const Icon = styled.div `
@@ -13,8 +20,8 @@ const Icon = styled.div `
   background-position: center;
   background-size: cover;
   border-radius: 10px;
-  border: 1px solid white;
-  margin-right: ${ru(1)}
+  border: 1px solid ${themeColor('white')};
+  margin-right: ${ru(1)};
 `
 
 const ArtistName = styled.span `
@@ -26,19 +33,11 @@ const ArtistName = styled.span `
   display: flex;
   flex-direction: column;
   justify-content: center;
-`;
 
-const ArtistSelect = styled.div `
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  justify-content: center;
 `;
 
 export {
   ArtistBoxViewWrapper,
   Icon,
-  ArtistName,
-  ArtistSelect
+  ArtistName
 };
