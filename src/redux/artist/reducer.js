@@ -1,5 +1,4 @@
 // reducer
-// consume action and make appropriate mutations to state based on action type
 
 import {ADD_SELECTED_ARTIST, REMOVE_SELECTED_ARTIST} from './actionTypes';
 
