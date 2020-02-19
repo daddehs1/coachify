@@ -13,7 +13,7 @@ export default function(state = initialState, action) {
       {
         return {
           ...state,
-          searchFilter: action.payload.searchFilter
+          searchFilter: action.payload.filterString
         }
       }
     default:
