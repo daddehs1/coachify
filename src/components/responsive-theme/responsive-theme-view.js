@@ -77,7 +77,7 @@ function ResponsiveThemeView(props) {
     baseMarginSize: `${base}rem`,
     checkBoxSize: `calc(1rem + 2 * ${base + checkBoxBoost}rem)`,
     colors: {
-      background: '#2A363B',
+      background: '#1D2227',
       secondary: "#FECEA8",
       white: "#FFFFFF",
       black: "#000000",
