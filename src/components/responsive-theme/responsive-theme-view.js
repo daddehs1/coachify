@@ -81,6 +81,7 @@ function ResponsiveThemeView(props) {
       secondary: "#FECEA8",
       white: "#FFFFFF",
       black: "#000000",
+      lightGrey: "#717172",
       accent: '#F67280',
       greenPrimary: "#2eab5a",
       correct: 'hsla(152, 88%, 64%, 1)',
