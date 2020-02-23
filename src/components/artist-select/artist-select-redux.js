@@ -3,7 +3,8 @@ import ArtistSelect from './artist-select-container';
 
 const mapStateToProps = state => {
   const {selectedArtistSpotifyIDs} = state.artist;
-  return {selectedArtistSpotifyIDs};
+  const {searchFilter} = state.search;
+  return {selectedArtistSpotifyIDs, searchFilter};
 };
 
 export default connect(mapStateToProps)(ArtistSelect)
